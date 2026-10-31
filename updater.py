@@ -1,11 +1,9 @@
 #!/usr/bin/env python3
-"""Pulls Hebrew news RSS feeds, keeps items about PM / Defense Minister /
-Chief of Staff / Mossad head / Shin Bet head, and writes data.json."""
+"""Pulls Hebrew news RSS feeds and keeps security-related headlines in data.json."""
 import json, re, sys, urllib.request, xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
 
-# Add or remove feeds here. Each one: (display name, RSS/Atom URL).
 FEEDS = [
     ("ynet", "https://www.ynet.co.il/Integration/StoryRss2.xml"),
     ("טיימס אוף ישראל", "https://he.timesofisrael.com/feed/"),
@@ -14,45 +12,52 @@ FEEDS = [
     ("מעריב מבזקים", "https://www.maariv.co.il/rss/rssfeedsmivzakichadashot"),
 ]
 
-# Order matters: the first category that matches wins.
+# The first matching category wins. Matching is on the TITLE only.
 RULES = [
-    ("mossad", ["ראש המוסד", "גופמן", "המוסד"]),
-    ("shin",   ["ראש השבכ", "זיני", "השבכ"]),
-    ("def",    ["שר הביטחון", "ישראל כץ"]),
-    ("chief",  ["הרמטכל", "אייל זמיר", "רמטכל"]),
-    ("pm",     ["ראש הממשלה", "נתניהו"]),
+    ("intel", ["ראש המוסד", "גופמן", "המוסד", "ראש השבכ", "זיני", "השבכ"]),
+    ("idf",   ["הרמטכל", "אייל זמיר", "פיקוד הצפון", "פיקוד המרכז", "פיקוד הדרום"]),
+    ("leb",   ["לבנון", "חיזבאללה", "נעים קאסם", "הליטאני", "ביירות"]),
+    ("gaza",  ["עזה", "חמאס", "הקו הצהוב"]),
+    ("syr",   ["סוריה", "סורי", "א-שרע", "דמשק", "החרמון", "אזור החיץ"]),
+    ("iran",  ["איראן", "איראני", "טהרן", "פורדו", "הורמוז"]),
+    ("gov",   ["שר הביטחון", "ישראל כץ", "שר החוץ", "גדעון סער", "ראש הממשלה", "נתניהו"]),
 ]
-MAX_ITEMS = 300
-UA = {"User-Agent": "Mozilla/5.0 (security-updates-bot)"}
+EXCLUDE = ["לביטוח לאומי"]
+SECURITY = ["איראן", "ביטחו", "צהל", "מלחמ", "חמאס", "חיזבאללה", "תקיפ",
+            "מבצע", "רמטכל", "עזה", "לבנון", "טילים", "סוריה", "תימן", "החות"]
+MAX_ITEMS = 400
+UA = {"User-Agent": "Mozilla/5.0 (security-news-bot)"}
 
 def norm(s):
     return re.sub(r"[\"'״׳”“’‘`]", "", s or "")
 
-# Prime-minister stories must also contain a security word in the title.
-SECURITY = ["איראן", "ביטחו", "צהל", "מלחמ", "חמאס", "חיזבאללה", "תקיפ",
-            "מבצע", "רמטכל", "עזה", "לבנון", "טילים", "סוריה", "תימן", "החות"]
-
 def classify(title):
-    """Match on the TITLE only, so a passing mention in the body does not count."""
     t = norm(title)
+    if any(x in t for x in EXCLUDE):
+        return None
     for cat, words in RULES:
         if any(norm(w) in t for w in words):
-            if cat == "pm" and not any(w in t for w in SECURITY):
+            # PM / general government stories need a security word in the title.
+            if cat == "gov" and ("שר הביטחון" not in t and "ישראל כץ" not in t
+                                 and "שר החוץ" not in t and "גדעון סער" not in t
+                                 and not any(w in t for w in SECURITY)):
                 continue
             return cat
     return None
 
 def parse_date(s):
+    now = datetime.now(timezone.utc)
     if not s:
-        return datetime.now(timezone.utc)
+        return now
     try:
         d = parsedate_to_datetime(s)
     except Exception:
         try:
             d = datetime.fromisoformat(s.replace("Z", "+00:00"))
         except Exception:
-            return datetime.now(timezone.utc)
-    return d if d.tzinfo else d.replace(tzinfo=timezone.utc)
+            return now
+    d = d if d.tzinfo else d.replace(tzinfo=timezone.utc)
+    return d.astimezone(timezone.utc)
 
 def tag(e):
     return e.tag.split("}")[-1]
@@ -88,14 +93,12 @@ def main():
     except Exception:
         old = []
     items = {}
-    for i in old:  # re-check old items; keep hand-curated ones (manual) as they are
-        if i.get("manual"):
+    for i in old:  # re-check old items against the current rules
+        c = classify(i.get("title", ""))
+        if c and i.get("link"):
+            i["cat"] = c
+            i.pop("manual", None)
             items[i["link"]] = i
-        else:
-            c = classify(i["title"])
-            if c:
-                i["cat"] = c
-                items[i["link"]] = i
     ok = 0
     for name, url in FEEDS:
         try:
