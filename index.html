@@ -37,7 +37,7 @@ footer{padding:20px 0 40px;color:var(--muted);font-size:14px;border-top:1px soli
 <div class="wrap">
 <header>
 <h1>מוקד ביטחון</h1>
-<p class="sub">עדכונים שוטפים: ראש הממשלה, שר הביטחון, ראש המוסד וראש השב״כ</p>
+<p class="sub">עדכונים שוטפים: ראש הממשלה, שר הביטחון, הרמטכ״ל, ראש המוסד וראש השב״כ</p>
 <div class="live"><i></i><span id="upd">טוען…</span></div>
 </header>
 <div class="bar">
@@ -48,7 +48,7 @@ footer{padding:20px 0 40px;color:var(--muted);font-size:14px;border-top:1px soli
 <footer>הכותרות נאספות אוטומטית מאתרי חדשות, והקישור מוביל לכתבה המלאה. דף זה אינו אתר רשמי.</footer>
 </div>
 <script>
-var CATS=[{id:"pm",n:"ראש הממשלה",c:"--gov"},{id:"def",n:"שר הביטחון",c:"--idf"},{id:"mossad",n:"ראש המוסד",c:"--mossad"},{id:"shin",n:"ראש השב״כ",c:"--shin"}];
+var CATS=[{id:"pm",n:"ראש הממשלה",c:"--gov"},{id:"def",n:"שר הביטחון",c:"--idf"},{id:"chief",n:"הרמטכ״ל",c:"--olive"},{id:"mossad",n:"ראש המוסד",c:"--mossad"},{id:"shin",n:"ראש השב״כ",c:"--shin"}];
 var DATA=[],cur="all",REFRESH_MS=14*60*1000;
 function cat(id){for(var i=0;i<CATS.length;i++)if(CATS[i].id===id)return CATS[i];return CATS[0]}
 function esc(s){var e=document.createElement("div");e.textContent=s;return e.innerHTML}
@@ -67,7 +67,7 @@ function chips(){
 }
 function load(){
  fetch("data.json?t="+Date.now()).then(function(r){return r.json()}).then(function(j){
-  DATA=j.items||[];
+  DATA=(j.items||[]).slice().sort(function(a,b){return new Date(b.ts)-new Date(a.ts)});
   document.getElementById("upd").textContent="עודכן לאחרונה: "+new Date(j.updated).toLocaleString("he-IL",{day:"numeric",month:"numeric",hour:"2-digit",minute:"2-digit"});
   render();
  }).catch(function(){document.getElementById("upd").textContent="לא ניתן לטעון עדכונים"});
