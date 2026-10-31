@@ -1,147 +1,194 @@
 {
- "updated": "2026-10-31T14:16:19.739110+00:00",
+ "updated": "2026-10-31T14:31:43.379819+00:00",
  "items": [
+  {
+   "title": "גורם צבאי בכיר: היינו כפסע מפעולה התקפית באיראן - ואנחנו עדיין שם",
+   "link": "https://www.ynet.co.il/news/article/yokra14942037",
+   "source": "ynet",
+   "ts": "2026-10-31T13:35:31+00:00",
+   "cat": "iran"
+  },
   {
    "title": "מהלומה אפשרית באיראן: טראמפ ונתניהו לא חושבים על אותו הדבר",
    "link": "https://www.ynet.co.il/news/article/hka00rqxpfe",
    "source": "ynet",
    "ts": "2026-10-31T12:40:20+02:00",
-   "cat": "pm"
+   "cat": "iran"
+  },
+  {
+   "title": "בדרך לאיראן: ישראל עלולה לקבל הפתעה לא נעימה מהמדינה הערבית",
+   "link": "https://www.maariv.co.il/news/world/article-1383168",
+   "source": "מעריב",
+   "ts": "2026-10-31T12:35:56+00:00",
+   "cat": "iran"
+  },
+  {
+   "title": "טורקיה על סף שיגעון: \"איראן, סוריה ולבנון - ישראל עכשיו הולכת לתקוף את היעד הבא\"",
+   "link": "https://www.maariv.co.il/breaking-news/article-1383159",
+   "source": "מעריב מבזקים",
+   "ts": "2026-10-31T11:20:00+00:00",
+   "cat": "leb"
+  },
+  {
+   "title": "בעזה טוענים: ישראל נותנת למחבלי חמאס לבחור איך ימותו",
+   "link": "https://www.maariv.co.il/news/military/article-1383155",
+   "source": "מעריב",
+   "ts": "2026-10-31T11:02:31+00:00",
+   "cat": "gaza"
+  },
+  {
+   "title": "סגן שר איראני בקטאר, חמינאי בהצהרה לוחמנית: \"רק אנחנו נקבע מתי זה ייגמר\"",
+   "link": "https://www.ynet.co.il/news/article/bjvvis76gl",
+   "source": "ynet",
+   "ts": "2026-10-31T11:01:25+00:00",
+   "cat": "iran"
+  },
+  {
+   "title": "בנק מטרות מעודכן ותגובה \"ללא גבולות\": מוג'תבא חמינאי מכין את צבא איראן למלחמה",
+   "link": "https://www.maariv.co.il/news/world/article-1383149",
+   "source": "מעריב",
+   "ts": "2026-10-31T09:41:11+00:00",
+   "cat": "iran"
+  },
+  {
+   "title": "בכיר איראני: \"השלמנו תוכנית מבצעית מקיפה - שתגרום להלם מעבר לכל דמיון\"",
+   "link": "https://www.maariv.co.il/breaking-news/article-1383145",
+   "source": "מעריב מבזקים",
+   "ts": "2026-10-31T09:06:45+00:00",
+   "cat": "iran"
+  },
+  {
+   "title": "דיווחים סותרים: בקטאר טענו ל\"פריצת דרך\" עם איראן; ארה\"ב למפרציות: התכוננו לשבוע הבא",
+   "link": "https://www.ynet.co.il/news/article/r1dlow76me",
+   "source": "ynet",
+   "ts": "2026-10-31T06:30:52+00:00",
+   "cat": "iran"
+  },
+  {
+   "title": "האיתות הראשון הגיע לישראל: מסתמן - זה התאריך שסימן טראמפ לתקיפה באיראן",
+   "link": "https://www.maariv.co.il/breaking-news/article-1383110",
+   "source": "מעריב מבזקים",
+   "ts": "2026-10-31T04:38:55+00:00",
+   "cat": "iran"
+  },
+  {
+   "title": "פיצוצים במפרץ הפרסי, טראמפ: \"איראן רוצה לדבר, לנו יש זמן\"",
+   "link": "https://www.ynet.co.il/news/article/skn6tjfaze",
+   "source": "ynet",
+   "ts": "2026-10-31T01:05:51+00:00",
+   "cat": "iran"
   },
   {
    "title": "המוסד מעורב בחקירת מבצעי התודעה בבחירות, במוקד: טורקיה וקטאר",
    "link": "https://www.ynet.co.il/news/article/b19vmeztfl",
    "source": "ynet",
    "ts": "2026-10-30T17:15:47+02:00",
-   "cat": "mossad"
+   "cat": "intel"
   },
   {
    "title": "המוסד מצטרף לשב״כ בחקירת החשד להתערבות קטארית בבחירות",
    "link": "https://13tv.co.il/item/news/domestic/crime-and-justice/mossad-905431704/",
    "source": "חדשות 13",
    "ts": "2026-10-30T12:00:00+03:00",
-   "cat": "shin",
-   "manual": true
+   "cat": "intel"
   },
   {
    "title": "מערכת הביטחון נערכת לאפשרות של מערכה נוספת מול איראן (דיווח)",
    "link": "https://www.ynet.co.il/news/article/rykqnm11pml",
    "source": "ynet",
    "ts": "2026-10-29T12:00:00+03:00",
-   "cat": "pm",
-   "manual": true
+   "cat": "iran"
   },
   {
    "title": "ראש השב״כ זיני בוועדת הבחירות: הבחירות בטוחות",
    "link": "https://www.jdn.co.il/news/military/2755814/",
    "source": "JDN",
    "ts": "2026-10-27T12:00:00+03:00",
-   "cat": "shin",
-   "manual": true
+   "cat": "intel"
   },
   {
    "title": "שר הביטחון כ״ץ הצביע במושב ינון, לבקשת השב״כ",
    "link": "https://kikar.co.il/political-news/tniqj3",
    "source": "כיכר השבת",
    "ts": "2026-10-27T12:00:00+03:00",
-   "cat": "def",
-   "manual": true
+   "cat": "intel"
   },
   {
    "title": "הערכת מצב ראשונה אחרי הבחירות: היערכות למבצע באיראן (דיווח)",
    "link": "https://www.walla.co.il/news/military/383959188",
    "source": "וואלה",
    "ts": "2026-10-27T12:00:00+03:00",
-   "cat": "def",
-   "manual": true
+   "cat": "iran"
   },
   {
    "title": "דיווח: ראש המוסד גופמן תמך בפעולה שנתניהו דחף באיראן",
    "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21711530",
    "source": "ישראל היום",
    "ts": "2026-10-27T12:00:00+03:00",
-   "cat": "mossad",
-   "manual": true
+   "cat": "intel"
   },
   {
    "title": "המשבר בין הדרג המדיני לרמטכ״ל זמיר מחריף; נתניהו וכ״ץ מכחישים כוונה לפטר אותו",
    "link": "https://www.ynet.co.il/news/article/syoqeq62mg",
    "source": "ynet",
    "ts": "2026-10-27T12:00:00+03:00",
-   "cat": "chief",
-   "manual": true
+   "cat": "gov"
   },
   {
    "title": "כ״ץ מכחיש פער בין הדרג המדיני לצה״ל בנושא איראן",
    "link": "https://www.mako.co.il/news-military/2026_q4/Article-75c9122940771a1026.htm",
    "source": "מאקו",
    "ts": "2026-10-26T12:00:00+03:00",
-   "cat": "def",
-   "manual": true
+   "cat": "iran"
   },
   {
    "title": "נתניהו מכחיש עימות עם הרמטכ״ל זמיר בנושא איראן",
    "link": "https://www.ynet.co.il/news/article/b1nawp32gg",
    "source": "ynet",
    "ts": "2026-10-26T12:00:00+03:00",
-   "cat": "pm",
-   "manual": true
+   "cat": "idf"
   },
   {
    "title": "נתניהו מזהיר את איראן: צה״ל ערוך בהגנה ובהתקפה",
    "link": "https://www.inn.co.il/news/709296",
    "source": "ערוץ 7",
    "ts": "2026-10-25T12:00:00+03:00",
-   "cat": "pm",
-   "manual": true
+   "cat": "iran"
   },
   {
    "title": "דיווח בחדשות 12: עימות בין ראש הממשלה לרמטכ״ל זמיר סביב פעולה באיראן",
    "link": "https://www.mako.co.il/news-military/2026_q4/Article-5790e669a7471a1027.htm",
    "source": "מאקו",
    "ts": "2026-10-25T12:00:00+03:00",
-   "cat": "chief",
-   "manual": true
-  },
-  {
-   "title": "כ״ץ: כל התקפה או פיגוע יירשמו על שם ראשי האופוזיציה",
-   "link": "https://www.inn.co.il/news/709066",
-   "source": "ערוץ 7",
-   "ts": "2026-10-22T12:00:00+03:00",
-   "cat": "def",
-   "manual": true
+   "cat": "iran"
   },
   {
    "title": "הרמטכ״ל באימון באוגדת עזה: צה״ל ערוך להגן על הבחירות מפני השפעה חיצונית",
    "link": "https://www.ynet.co.il/news/article/bkj8vyr3fl",
    "source": "ynet",
    "ts": "2026-10-20T12:00:00+03:00",
-   "cat": "chief",
-   "manual": true
+   "cat": "idf"
   },
   {
    "title": "ראש הממשלה הציג תפיסת ביטחון חדשה",
    "link": "https://www.mako.co.il/news-military/2026_q4/Article-fa32ba5be8f41a1027.htm",
    "source": "מאקו",
    "ts": "2026-10-18T12:00:00+03:00",
-   "cat": "pm",
-   "manual": true
+   "cat": "gov"
   },
   {
    "title": "הרמטכ״ל בפיקוד המרכז: פוטנציאל ההסלמה גבר בשל ריבוי ההתרעות",
    "link": "https://www.ynet.co.il/news/article/synb2ztizl",
    "source": "ynet",
    "ts": "2026-10-14T12:00:00+03:00",
-   "cat": "chief",
-   "manual": true
+   "cat": "idf"
   },
   {
    "title": "ראש המוסד גופמן סיים את תפקידם של שני בכירים בארגון (דיווח)",
    "link": "https://www.zman.co.il/729617/",
    "source": "זמן ישראל",
    "ts": "2026-08-15T12:00:00+03:00",
-   "cat": "mossad",
-   "manual": true
+   "cat": "intel"
   }
  ]
 }
