@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Pulls Hebrew news RSS feeds, keeps items about PM / Defense Minister /
-Mossad head / Shin Bet head, and writes data.json. Standard library only."""
+Chief of Staff / Mossad head / Shin Bet head, and writes data.json."""
 import json, re, sys, urllib.request, xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
@@ -9,6 +9,9 @@ from email.utils import parsedate_to_datetime
 FEEDS = [
     ("ynet", "https://www.ynet.co.il/Integration/StoryRss2.xml"),
     ("טיימס אוף ישראל", "https://he.timesofisrael.com/feed/"),
+    ("וואלה", "https://rss.walla.co.il/feed/1?type=main"),
+    ("מעריב", "https://www.maariv.co.il/rss/rsschadashot"),
+    ("מעריב מבזקים", "https://www.maariv.co.il/rss/rssfeedsmivzakichadashot"),
 ]
 
 # Order matters: the first category that matches wins.
@@ -16,6 +19,7 @@ RULES = [
     ("mossad", ["ראש המוסד", "גופמן", "המוסד"]),
     ("shin",   ["ראש השבכ", "זיני", "השבכ"]),
     ("def",    ["שר הביטחון", "ישראל כץ"]),
+    ("chief",  ["הרמטכל", "אייל זמיר", "רמטכל"]),
     ("pm",     ["ראש הממשלה", "נתניהו"]),
 ]
 MAX_ITEMS = 300
@@ -66,11 +70,6 @@ def fetch(name, url):
         link = ""
         if "link" in f:
             link = (f["link"].text or f["link"].attrib.get("href", "")).strip()
-        desc = ""
-        for k in ("description", "summary", "content"):
-            if k in f and f[k].text:
-                desc = f[k].text
-                break
         date = ""
         for k in ("pubDate", "published", "updated", "date"):
             if k in f and f[k].text:
