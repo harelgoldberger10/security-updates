@@ -1,1 +1,108 @@
-{"updated":"2026-10-31T00:00:00+00:00","items":[{"title":"המוסד מצטרף לשב״כ בחקירת החשד להתערבות קטארית בבחירות","link":"https://13tv.co.il/item/news/domestic/crime-and-justice/mossad-905431704/","source":"חדשות 13","ts":"2026-10-30T12:00:00+03:00","cat":"shin","manual":true},{"title":"מערכת הביטחון נערכת לאפשרות של מערכה נוספת מול איראן (דיווח)","link":"https://www.ynet.co.il/news/article/rykqnm11pml","source":"ynet","ts":"2026-10-29T12:00:00+03:00","cat":"pm","manual":true},{"title":"ראש השב״כ זיני בוועדת הבחירות: הבחירות בטוחות","link":"https://www.jdn.co.il/news/military/2755814/","source":"JDN","ts":"2026-10-27T12:00:00+03:00","cat":"shin","manual":true},{"title":"שר הביטחון כ״ץ הצביע במושב ינון, לבקשת השב״כ","link":"https://kikar.co.il/political-news/tniqj3","source":"כיכר השבת","ts":"2026-10-27T12:00:00+03:00","cat":"def","manual":true},{"title":"הערכת מצב ראשונה אחרי הבחירות: היערכות למבצע באיראן (דיווח)","link":"https://www.walla.co.il/news/military/383959188","source":"וואלה","ts":"2026-10-27T12:00:00+03:00","cat":"def","manual":true},{"title":"דיווח: ראש המוסד גופמן תמך בפעולה שנתניהו דחף באיראן","link":"https://www.israelhayom.co.il/news/world-news/middle-east/article/21711530","source":"ישראל היום","ts":"2026-10-27T12:00:00+03:00","cat":"mossad","manual":true},{"title":"כ״ץ מכחיש פער בין הדרג המדיני לצה״ל בנושא איראן","link":"https://www.mako.co.il/news-military/2026_q4/Article-75c9122940771a1026.htm","source":"מאקו","ts":"2026-10-26T12:00:00+03:00","cat":"def","manual":true},{"title":"נתניהו מכחיש עימות עם הרמטכ״ל זמיר בנושא איראן","link":"https://www.ynet.co.il/news/article/b1nawp32gg","source":"ynet","ts":"2026-10-26T12:00:00+03:00","cat":"pm","manual":true},{"title":"נתניהו מזהיר את איראן: צה״ל ערוך בהגנה ובהתקפה","link":"https://www.inn.co.il/news/709296","source":"ערוץ 7","ts":"2026-10-25T12:00:00+03:00","cat":"pm","manual":true},{"title":"כ״ץ: כל התקפה או פיגוע יירשמו על שם ראשי האופוזיציה","link":"https://www.inn.co.il/news/709066","source":"ערוץ 7","ts":"2026-10-22T12:00:00+03:00","cat":"def","manual":true},{"title":"ראש הממשלה הציג תפיסת ביטחון חדשה","link":"https://www.mako.co.il/news-military/2026_q4/Article-fa32ba5be8f41a1027.htm","source":"מאקו","ts":"2026-10-18T12:00:00+03:00","cat":"pm","manual":true},{"title":"ראש המוסד גופמן סיים את תפקידם של שני בכירים בארגון (דיווח)","link":"https://www.zman.co.il/729617/","source":"זמן ישראל","ts":"2026-08-15T12:00:00+03:00","cat":"mossad","manual":true}]}
+{
+ "updated": "2026-10-31T10:31:36.073534+00:00",
+ "items": [
+  {
+   "title": "המוסד מעורב בחקירת מבצעי התודעה בבחירות, במוקד: טורקיה וקטאר",
+   "link": "https://www.ynet.co.il/news/article/b19vmeztfl",
+   "source": "ynet",
+   "ts": "2026-10-30T17:15:47+02:00",
+   "cat": "mossad"
+  },
+  {
+   "title": "המוסד מצטרף לשב״כ בחקירת החשד להתערבות קטארית בבחירות",
+   "link": "https://13tv.co.il/item/news/domestic/crime-and-justice/mossad-905431704/",
+   "source": "חדשות 13",
+   "ts": "2026-10-30T12:00:00+03:00",
+   "cat": "shin",
+   "manual": true
+  },
+  {
+   "title": "מערכת הביטחון נערכת לאפשרות של מערכה נוספת מול איראן (דיווח)",
+   "link": "https://www.ynet.co.il/news/article/rykqnm11pml",
+   "source": "ynet",
+   "ts": "2026-10-29T12:00:00+03:00",
+   "cat": "pm",
+   "manual": true
+  },
+  {
+   "title": "ראש השב״כ זיני בוועדת הבחירות: הבחירות בטוחות",
+   "link": "https://www.jdn.co.il/news/military/2755814/",
+   "source": "JDN",
+   "ts": "2026-10-27T12:00:00+03:00",
+   "cat": "shin",
+   "manual": true
+  },
+  {
+   "title": "שר הביטחון כ״ץ הצביע במושב ינון, לבקשת השב״כ",
+   "link": "https://kikar.co.il/political-news/tniqj3",
+   "source": "כיכר השבת",
+   "ts": "2026-10-27T12:00:00+03:00",
+   "cat": "def",
+   "manual": true
+  },
+  {
+   "title": "הערכת מצב ראשונה אחרי הבחירות: היערכות למבצע באיראן (דיווח)",
+   "link": "https://www.walla.co.il/news/military/383959188",
+   "source": "וואלה",
+   "ts": "2026-10-27T12:00:00+03:00",
+   "cat": "def",
+   "manual": true
+  },
+  {
+   "title": "דיווח: ראש המוסד גופמן תמך בפעולה שנתניהו דחף באיראן",
+   "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21711530",
+   "source": "ישראל היום",
+   "ts": "2026-10-27T12:00:00+03:00",
+   "cat": "mossad",
+   "manual": true
+  },
+  {
+   "title": "כ״ץ מכחיש פער בין הדרג המדיני לצה״ל בנושא איראן",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-75c9122940771a1026.htm",
+   "source": "מאקו",
+   "ts": "2026-10-26T12:00:00+03:00",
+   "cat": "def",
+   "manual": true
+  },
+  {
+   "title": "נתניהו מכחיש עימות עם הרמטכ״ל זמיר בנושא איראן",
+   "link": "https://www.ynet.co.il/news/article/b1nawp32gg",
+   "source": "ynet",
+   "ts": "2026-10-26T12:00:00+03:00",
+   "cat": "pm",
+   "manual": true
+  },
+  {
+   "title": "נתניהו מזהיר את איראן: צה״ל ערוך בהגנה ובהתקפה",
+   "link": "https://www.inn.co.il/news/709296",
+   "source": "ערוץ 7",
+   "ts": "2026-10-25T12:00:00+03:00",
+   "cat": "pm",
+   "manual": true
+  },
+  {
+   "title": "כ״ץ: כל התקפה או פיגוע יירשמו על שם ראשי האופוזיציה",
+   "link": "https://www.inn.co.il/news/709066",
+   "source": "ערוץ 7",
+   "ts": "2026-10-22T12:00:00+03:00",
+   "cat": "def",
+   "manual": true
+  },
+  {
+   "title": "ראש הממשלה הציג תפיסת ביטחון חדשה",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-fa32ba5be8f41a1027.htm",
+   "source": "מאקו",
+   "ts": "2026-10-18T12:00:00+03:00",
+   "cat": "pm",
+   "manual": true
+  },
+  {
+   "title": "ראש המוסד גופמן סיים את תפקידם של שני בכירים בארגון (דיווח)",
+   "link": "https://www.zman.co.il/729617/",
+   "source": "זמן ישראל",
+   "ts": "2026-08-15T12:00:00+03:00",
+   "cat": "mossad",
+   "manual": true
+  }
+ ]
+}
