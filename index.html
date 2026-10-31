@@ -2,78 +2,126 @@
 <html lang="he" dir="rtl">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>מוקד ביטחון – עדכונים שוטפים</title>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@900&family=Assistant:wght@400;600;700&display=swap">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>מבזק ביטחון – חדשות צה״ל, המוסד, שב״כ והמערכה</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@500;900&family=Assistant:wght@400;600;700&display=swap">
 <style>
-:root{--bg:#eef0e8;--surface:#fafaf5;--ink:#1d2418;--muted:#5d664f;--line:#cfd4c2;--olive:#4b5a3c;--alert:#b4531a;--idf:#4b5a3c;--mossad:#2f4a6b;--shin:#6b3a5c;--gov:#8a6a1c}
-@media (prefers-color-scheme:dark){:root{color-scheme:dark;--bg:#161a12;--surface:#1f2419;--ink:#e8ebdf;--muted:#a3ab94;--line:#38402f;--olive:#9bb07f;--alert:#e08a4f;--idf:#9bb07f;--mossad:#7fa3cf;--shin:#c98fb8;--gov:#d4b45c}}
+:root{--bg:#f6f5f1;--sf:#fff;--ink:#14181f;--mut:#5b6270;--rule:#d9d6cc;--red:#c1272d;--navy:#1b2a41;--navt:#fff;
+box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){color-scheme:dark;--bg:#0f1217;--sf:#171b22;--ink:#e9e7e1;--mut:#9aa3b2;--rule:#2b323d;--red:#ff6b61;--navy:#1d2735;--navt:#e9e7e1}}
+:root[data-theme="dark"]{color-scheme:dark;--bg:#0f1217;--sf:#171b22;--ink:#e9e7e1;--mut:#9aa3b2;--rule:#2b323d;--red:#ff6b61;--navy:#1d2735;--navt:#e9e7e1}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--ink);font-family:Assistant,Arial,sans-serif;font-size:17px;line-height:1.6}
-.wrap{max-width:860px;margin:0 auto;padding:0 16px}
-header{padding:28px 0 14px;border-bottom:3px solid var(--olive)}
-h1{font-family:"Frank Ruhl Libre",Georgia,serif;font-weight:900;font-size:clamp(34px,7vw,56px);line-height:1.05;margin:0}
-.sub{color:var(--muted);margin:6px 0 0}
-.live{display:flex;align-items:center;gap:8px;margin-top:12px;font-weight:600;color:var(--alert)}
-.live i{width:10px;height:10px;border-radius:50%;background:var(--alert)}
-.bar{position:sticky;top:0;background:var(--bg);padding:10px 0;z-index:5;border-bottom:1px solid var(--line)}
-.chips{display:flex;gap:8px;overflow-x:auto;padding-bottom:4px}
-.chip{flex:none;border:1.5px solid var(--line);background:var(--surface);color:var(--ink);font:inherit;font-weight:600;padding:5px 14px;border-radius:20px;cursor:pointer}
-.chip[aria-pressed="true"]{background:var(--olive);border-color:var(--olive);color:var(--bg)}
-.chip:focus-visible,input:focus-visible,a:focus-visible{outline:3px solid var(--alert);outline-offset:2px}
-input{font:inherit;color:var(--ink);background:var(--surface);border:1.5px solid var(--line);padding:8px 10px;border-radius:6px;width:100%;margin-top:8px}
-.feed{padding:10px 0 40px}
-.day{font-family:"Frank Ruhl Libre",serif;font-weight:900;font-size:22px;margin:26px 0 8px}
-.item{background:var(--surface);border:1px solid var(--line);border-inline-start:6px solid var(--c);padding:10px 16px;margin-bottom:10px}
-.meta{display:flex;gap:10px;flex-wrap:wrap;font-size:14px;color:var(--muted)}
-.tag{font-weight:700;color:var(--c)}
-.item h3{margin:2px 0 2px;font-size:18px;line-height:1.4}
-.item a{color:var(--ink)}
-.empty{padding:30px 0;color:var(--muted);text-align:center}
-footer{padding:20px 0 40px;color:var(--muted);font-size:14px;border-top:1px solid var(--line)}
+a{color:inherit}
+.w{max-width:1000px;margin:0 auto;padding:0 16px}
+.top{background:var(--navy);color:var(--navt);font-size:14px}
+.top .w{display:flex;justify-content:space-between;gap:10px;padding-top:6px;padding-bottom:6px;flex-wrap:wrap}
+.top button{background:none;border:0;color:inherit;font:inherit;text-decoration:underline;cursor:pointer;padding:0}
+.mast{padding:18px 0 10px;border-bottom:4px solid var(--red)}
+h1{font-family:"Frank Ruhl Libre",Georgia,serif;font-weight:900;font-size:clamp(38px,9vw,68px);line-height:1;margin:0;letter-spacing:-.5px}
+h1 span{color:var(--red)}
+.tag{color:var(--mut);margin:6px 0 0}
+.tick{background:var(--red);color:#fff;display:flex;align-items:center;overflow:hidden;font-weight:700}
+.tick b{background:#0006;padding:6px 14px;flex:none}
+.tick div{white-space:nowrap;padding:6px 0;animation:mv 70s linear infinite;padding-inline-start:100%}
+@keyframes mv{to{transform:translateX(100%)}}
+@media (prefers-reduced-motion:reduce){.tick div{animation:none;overflow-x:auto;padding-inline-start:12px}}
+nav{position:sticky;top:env(safe-area-inset-top,0px);background:var(--bg);z-index:5;border-bottom:1px solid var(--rule)}
+nav .w{display:flex;gap:6px;overflow-x:auto;padding-top:8px;padding-bottom:8px}
+nav button{flex:none;border:0;background:none;color:var(--ink);font:inherit;font-weight:700;padding:6px 12px;cursor:pointer;border-bottom:3px solid transparent}
+nav button[aria-pressed="true"]{border-color:var(--red);color:var(--red)}
+button:focus-visible,a:focus-visible{outline:3px solid var(--red);outline-offset:2px}
+.lead{padding:22px 0;border-bottom:1px solid var(--rule)}
+.lead h2{font-family:"Frank Ruhl Libre",serif;font-weight:900;font-size:clamp(26px,5vw,40px);line-height:1.2;margin:4px 0 8px}
+.k{color:var(--red);font-weight:700;font-size:14px}
+.sum{background:var(--sf);border:1px solid var(--rule);border-inline-start:5px solid var(--red);padding:12px 18px;margin:20px 0}
+.sum h3{margin:0 0 6px;font-family:"Frank Ruhl Libre",serif;font-size:22px}
+.sum ul{margin:0;padding-inline-start:20px}
+.sec h2{font-family:"Frank Ruhl Libre",serif;font-weight:900;font-size:26px;margin:28px 0 10px;padding-bottom:6px;border-bottom:2px solid var(--ink)}
+.g{display:grid;grid-template-columns:repeat(auto-fill,minmax(290px,1fr));gap:14px}
+.c{background:var(--sf);border:1px solid var(--rule);padding:12px 14px}
+.c h3{font-size:18px;line-height:1.35;margin:2px 0 6px}
+.c p{margin:0 0 6px;font-size:16px}
+.m{font-size:13px;color:var(--mut)}
+.note{color:var(--mut);font-style:italic;padding:8px 0}
+footer{margin-top:36px;padding:18px 0 40px;border-top:1px solid var(--rule);color:var(--mut);font-size:14px}
 </style>
 </head>
 <body>
-<div class="wrap">
-<header>
-<h1>מוקד ביטחון</h1>
-<p class="sub">עדכונים שוטפים: ראש הממשלה, שר הביטחון, הרמטכ״ל, ראש המוסד וראש השב״כ</p>
-<div class="live"><i></i><span id="upd">טוען…</span></div>
-</header>
-<div class="bar">
-<div class="chips" id="chips" role="group" aria-label="סינון לפי נושא"></div>
-<input id="q" type="search" placeholder="חיפוש בעדכונים" aria-label="חיפוש בעדכונים">
-</div>
-<main class="feed" id="feed" aria-live="polite"></main>
-<footer>הכותרות נאספות אוטומטית מאתרי חדשות, והקישור מוביל לכתבה המלאה. דף זה אינו אתר רשמי.</footer>
-</div>
+<div class="top"><div class="w"><span id="dt"></span><span><span id="up"></span> <button id="th" type="button">מצב כהה / בהיר</button></span></div></div>
+<header class="w mast"><h1>מבזק <span>ביטחון</span></h1><p class="tag">צה״ל, המוסד, שב״כ, הדרג המדיני והמערכה באיראן, בלבנון, בעזה ובסוריה</p></header>
+<div class="tick" role="marquee" aria-label="מבזקים"><b>מבזק</b><div id="tk"></div></div>
+<nav><div class="w" id="nv" role="group" aria-label="מדורים"></div></nav>
+<main class="w" id="mn"></main>
+<footer class="w">הכותרות והתקצירים מבוססים על דיווחי תקשורת, ולצד כל פריט קישור לכתבה המלאה. האתר אינו רשמי. פריטים עם כותרת בלבד נאספים אוטומטית מאתרי חדשות. פרטים שנמסרו מגורמים אנונימיים מסומנים כדיווח.</footer>
 <script>
-var CATS=[{id:"pm",n:"ראש הממשלה",c:"--gov"},{id:"def",n:"שר הביטחון",c:"--idf"},{id:"chief",n:"הרמטכ״ל",c:"--olive"},{id:"mossad",n:"ראש המוסד",c:"--mossad"},{id:"shin",n:"ראש השב״כ",c:"--shin"}];
-var DATA=[],cur="all",REFRESH_MS=14*60*1000;
-function cat(id){for(var i=0;i<CATS.length;i++)if(CATS[i].id===id)return CATS[i];return CATS[0]}
-function esc(s){var e=document.createElement("div");e.textContent=s;return e.innerHTML}
-function render(){
- var q=document.getElementById("q").value.trim(),out="",last="";
- DATA.filter(function(x){return(cur==="all"||x.cat===cur)&&(!q||x.title.indexOf(q)>=0)}).forEach(function(x){
-  var d=new Date(x.ts),day=d.toLocaleDateString("he-IL",{day:"numeric",month:"long",year:"numeric"}),k=cat(x.cat);
-  if(day!==last){out+='<div class="day">'+esc(day)+'</div>';last=day}
-  out+='<article class="item" style="--c:var('+k.c+')"><div class="meta"><span class="tag">'+esc(k.n)+'</span><span>'+esc(x.source)+'</span><time>'+d.toLocaleTimeString("he-IL",{hour:"2-digit",minute:"2-digit"})+'</time></div><h3><a href="'+encodeURI(x.link)+'" target="_blank" rel="noopener">'+esc(x.title)+'</a></h3></article>'});
- document.getElementById("feed").innerHTML=out||'<div class="empty">אין עדכונים בנושא הזה כרגע.</div>';
+var S=[["iran","איראן וארה״ב"],["leb","לבנון"],["gaza","עזה"],["syr","סוריה"],["idf","צה״ל והרמטכ״ל"],["intel","מוסד ושב״כ"],["gov","הממשלה והדרג המדיני"]];
+var D=[
+["iran","2026-10-31","טראמפ: השיחות עם טהרן נמשכות, ״יש לנו זמן״","הנשיא האמריקני חזר על התנאי המרכזי לסיום המלחמה: הבטחה שאיראן לעולם לא תחזיק בנשק גרעיני. לפי הדיווח, קטאר הציגה לאחרונה טיוטת הסכם ובכיר איראני דחה אותה. במפרץ נפגע כלי שיט סמוך לאי האיראני לאוואן ופרצה בו שריפה.","https://www.ynet.co.il/news/article/skn6tjfaze","ynet"],
+["iran","2026-10-30","טראמפ: המלחמה תסתיים בקרוב, וארה״ב לא תתקוף לפני בחירות האמצע","לדברי הנשיא, אמריקה זקוקה לערובה לכך שלא יהיה נשק גרעיני. במקביל דווח ב״וול סטריט ג׳ורנל״ שמפקד סנטקום הציג לנשיא אפשרויות לתקיפה באיראן. בחירות האמצע יתקיימו ב־3 בנובמבר.","https://www.israelhayom.co.il/news/world-news/usa/article/21741739","ישראל היום"],
+["iran","2026-10-30","דיווח ב־CNN: ארה״ב גיבשה תוכניות תקיפה, כולל שימוש אפשרי ב־MOAB","לפי הדיווח, התוכניות מתייחסות לתשתיות אנרגיה ולאתרי גרעין איראניים ויופעלו רק אם הנשיא יורה על חידוש הלחימה. ההצעה טרם אושרה סופית.","https://www.maariv.co.il/news/world/article-1382956","מעריב"],
+["iran","2026-10-29","ישראל נערכת לאפשרות של סבב נוסף מול איראן וממתינה להכרעת טראמפ","ההיערכות כוללת צד התקפי והגנתי. לפי הדיווח אין סימן ברור להחלטה לתקוף, וההכרעה תלויה בנשיא ארה״ב.","https://www.ynet.co.il/news/article/rykqnm11pml","ynet"],
+["leb","2026-10-27","בצה״ל נערכים: חיזבאללה עלול לתקוף אם תחודש המלחמה באיראן","פיקוד הצפון מגביר את הפעילות בעומק דרום לבנון ובמרחב הליטאני כדי לשבש את שיקום הארגון. הנחת העבודה היא שחיזבאללה עשוי להסלים אם הלחימה מול איראן תתחדש.","https://www.walla.co.il/news/military/383959057","וואלה"],
+["leb","2026-10-27","חיזבאללה ממשיך להתחמש בסיוע איראני, לפי דיווח","הארגון מנצל את הירידה בעצימות מאז יוני כדי לשקם יכולות פיקוד ושליטה, בעוד צה״ל מחזיק בכפרים בדרום לבנון ומנטר את האזור גם באמצעים מרוחקים.","https://www.israelhayom.co.il/news/world-news/middle-east/article/21712635","ישראל היום"],
+["leb","2026-10-20","כ״ץ: צה״ל יישאר באזור הביטחון בדרום לבנון עד פירוק חיזבאללה מנשקו","לדברי שר הביטחון מדובר באזור של כ־700 קמ״ר. הוא הזהיר שאם חיזבאללה יצטרף להתקפה איראנית, הצבא יתמרן לשטחים נוספים באזורי נבטיה והליטאני.","https://www.inn.co.il/news/708935","ערוץ 7"],
+["gaza","2026-10-20","שני מחבלי חמאס חצו את הקו הצהוב בדרום עזה וחוסלו","לפי הדיווח הם ניסו לגנוב מקדחים לאיתור מנהרות מכוחות ההנדסה, זוהו בזמן אמת וחוסלו בתקיפה. בצה״ל מדגישים דריכות גבוהה לאורך הקו.","https://www.kikar.co.il/security-news/hamas-terrorists-crossed-yellow-line-drills-elimin","כיכר השבת"],
+["gaza","2026-10-11","צה״ל מחזיק בכ־64% משטח הרצועה, ובעזה טוענים שהקו הצהוב נדחק שוב","לפי הדיווח הצבא פרוס בשתי אוגדות ובכ־30 מוצבים. במערכת הביטחון מסבירים שהזזת הקו משפרת את השליטה המבצעית מול התארגנות של חמאס.","https://www.ynet.co.il/news/article/s1d3tadifx","ynet"],
+["syr","2026-10-23","דיווח סורי: אזרח עם מוגבלות נהרג מירי כוח ישראלי; צה״ל: הכוח ירה לעבר חשוד","סוכנות הידיעות הסורית דיווחה על האירוע בג׳מלה. צה״ל מסר שכוחותיו פעלו באזור הביטחון בדרום סוריה ושחשוד התקרב אליהם. הצבא פרוס בתשעה מוצבים באזור החיץ מאז נפילת משטר אסד.","https://www.zman.co.il/live/735669/","זמן ישראל"],
+["syr","2026-10-15","צה״ל: פועלים במרחב הביטחון בדרום סוריה כדי להסיר איומים","בעקבות דיווחים סוריים על הסלמה בגבול מסר דובר צה״ל שהצבא פועל מעבר לקו היישובים בעקבות לקחי 7 באוקטובר.","https://www.ynet.co.il/news/article/bys00wxcofe","ynet"],
+["syr","2026-10-14","כ״ץ בדרום לבנון: ישראל לא תסוג מאזורי הביטחון בלבנון ובסוריה","בסיור בקו הכפרים הראשון אמר השר שהצבא פועל כדי להגן על תושבי הגליל והגולן, והזהיר שבמקרה של הסלמה הצבא ערוך לתמרון קרקעי נוסף.","https://www.inn.co.il/news/708471","ערוץ 7"],
+["idf","2026-10-26","כ״ץ ולשכת ראש הממשלה מכחישים כוונה לפטר את הרמטכ״ל זמיר","ההכחשה פורסמה ערב הבחירות, על רקע דיווחים על מחלוקת סביב פעולה באיראן. דובר צה״ל מסר שהצבא בדריכות גבוהה בכל הזירות.","https://www.walla.co.il/news/politics/383959024","וואלה"],
+["idf","2026-10-20","הרמטכ״ל: המטרה היא לאפשר בחירות דמוקרטיות ללא השפעה חיצונית","זמיר אמר שהצבא פועל כדי לשמור על הליך הבחירות מפני ניסיונות השפעה מבחוץ.","https://www.ynet.co.il/news/article/bkj8vyr3fl","ynet"],
+["idf","2026-10-14","הרמטכ״ל: פוטנציאל ההסלמה גבר","זמיר העריך שהסיכון להסלמה עלה. פרטים נוספים בכתבה.","https://www.ynet.co.il/news/article/synb2ztizl","ynet"],
+["intel","2026-10-30","המוסד מצטרף לשב״כ בחקירת החשד להתערבות קטארית בבחירות","לפי הדיווח, החשד הוא שהועברו כספים כדי להשפיע על ההצבעה בחברה הערבית. השב״כ מסר שהחקירה טרם הסתיימה ושהממצאים יועברו ליו״ר ועדת הבחירות. קטאר הכחישה.","https://13tv.co.il/item/news/domestic/crime-and-justice/mossad-905431704/","חדשות 13"],
+["intel","2026-10-27","ראש השב״כ זיני: הבחירות בטוחות","בביקורו בוועדת הבחירות המרכזית אמר זיני שגופי הביטחון מסכלים ניסיונות לשבש את ההליך.","https://www.jdn.co.il/news/military/2755814/","JDN"],
+["intel","2026-10-27","דיווח: ראש המוסד גופמן תמך בפעולה שנתניהו דחף באיראן","לפי גורם אנונימי שצוטט ב״ישראל היום״, הרמטכ״ל זמיר התנגד ולא עודכן מראש. גורם צבאי בכיר אמר שמתקפה רחבה תתבצע רק בתיאום עם ארה״ב.","https://www.israelhayom.co.il/news/world-news/middle-east/article/21711530","ישראל היום"],
+["gov","2026-10-29","שר החוץ סער נפגש בחשאי עם שר החוץ הצרפתי בנס ציונה","לפי הדיווח הפגישה התקיימה ב־7 באוקטובר, כשבארו שהה בישראל לאירועי ההנצחה, ולא פורסמה ולא צולמה.","https://www.ynet.co.il/news/article/ryf00z3eame","ynet"],
+["gov","2026-10-26","נתניהו: הדיווחים על כוונה לפטר את הרמטכ״ל הם ״פייק ניוז״","ראש הממשלה תקף את ערוצים 12 ו־13 ואמר שבכוונתו להסיר סופית את האיום הגרעיני האיראני יחד עם הנשיא טראמפ.","https://www.zman.co.il/live/736790/","זמן ישראל"],
+["gov","2026-10-26","כ״ץ: אין פער עם צה״ל, ולא הייתה כוונה לתקוף באיראן לפני הבחירות","שר הביטחון כינה מופרכים הדיווחים על מחלוקת עם הצבא וקבע שאם איראן תתקוף, התגובה תהיה חזקה.","https://www.mako.co.il/news-military/2026_q4/Article-75c9122940771a1026.htm","מאקו"],
+["gov","2026-10-22","כ״ץ: כל התקפה או פיגוע יירשמו על שם ראשי האופוזיציה","השר טען שבידי מערכת הביטחון מידע על כוונות של גורמים עוינים לפעול בתקופת הבחירות. הצהרתו עוררה תגובות חריפות באופוזיציה.","https://www.inn.co.il/news/709066","ערוץ 7"],
+["gov","2026-10-18","נתניהו הציג תפיסת ביטחון חדשה: מעבר ליוזמה והתקפה","לפי הדיווח כוללת התפיסה תוספת של כ־450 מיליארד שקל לתקציב הביטחון בעשור הקרוב ומניעת נשק גרעיני מאיראן.","https://www.mako.co.il/news-military/2026_q4/Article-fa32ba5be8f41a1027.htm","מאקו"]
+];
+var SUM=["איראן: טראמפ אומר שהמלחמה תסתיים בקרוב ושארה״ב לא תתקוף לפני בחירות האמצע ב־3 בנובמבר, אך הדיווחים על אפשרויות תקיפה נמשכים.","לבנון: צה״ל מחזק את הפעילות מול חיזבאללה, וכ״ץ מבהיר שלא תהיה נסיגה מאזור הביטחון.","עזה: תקריות לאורך הקו הצהוב נמשכות, והצבא מחזיק בכ־64% משטח הרצועה.","סוריה: צה״ל נשאר בתשעה מוצבים באזור החיץ ופועל בדרום המדינה.","מערכת הביטחון: אחרי הבחירות נמשך המתח סביב הרמטכ״ל, והמוסד מצטרף לשב״כ בחקירת התערבות קטארית."];
+var cur="all",IT=[];
+function e(s){var d=document.createElement("div");d.textContent=s;return d.innerHTML}
+function fd(t,tm){var d=new Date(t),s=d.toLocaleDateString("he-IL",{day:"numeric",month:"long"});return tm?s+" "+d.toLocaleTimeString("he-IL",{hour:"2-digit",minute:"2-digit"}):s}
+function build(auto){
+ var seen={},out=[];
+ D.forEach(function(x){seen[x[4]]=1;out.push({c:x[0],t:new Date(x[1]+"T12:00:00").getTime(),h:x[2],b:x[3],u:x[4],s:x[5],a:0})});
+ (auto||[]).forEach(function(x){if(seen[x.link])return;seen[x.link]=1;out.push({c:x.cat,t:new Date(x.ts).getTime(),h:x.title,b:"",u:x.link,s:x.source,a:1})});
+ out.sort(function(a,b){return b.t-a.t});IT=out;
 }
-function chips(){
- var h="";[{id:"all",n:"הכול"}].concat(CATS).forEach(function(c){h+='<button type="button" class="chip" data-id="'+c.id+'" aria-pressed="'+(c.id===cur)+'">'+c.n+'</button>'});
- var el=document.getElementById("chips");el.innerHTML=h;
- el.onclick=function(e){var b=e.target.closest(".chip");if(!b)return;cur=b.dataset.id;chips();render()};
+function card(x){return '<article class="c"><div class="m">'+fd(x.t,x.a)+' · '+e(x.s)+'</div><h3>'+e(x.h)+'</h3>'+(x.b?'<p>'+e(x.b)+'</p>':'')+'<a class="m" href="'+x.u+'" target="_blank" rel="noopener">לכתבה המלאה</a></article>'}
+function draw(){
+ var h="";
+ if(cur==="all"){var L=IT.filter(function(x){return x.b})[0]||IT[0];
+  if(L)h+='<section class="lead"><span class="k">הכותרת הראשית</span><h2>'+e(L.h)+'</h2><p>'+e(L.b)+'</p><a class="m" href="'+L.u+'" target="_blank" rel="noopener">'+e(L.s)+' · לכתבה המלאה</a></section>';
+  h+='<section class="sum"><h3>תמצית היום</h3><ul>'+SUM.map(function(s){return'<li>'+e(s)+'</li>'}).join("")+'</ul></section>';}
+ S.forEach(function(s){
+  if(cur!=="all"&&cur!==s[0])return;
+  var it=IT.filter(function(x){return x.c===s[0]});
+  if(cur==="all")it=it.slice(0,12);
+  h+='<section class="sec"><h2>'+e(s[1])+'</h2>';
+  if(s[0]==="idf")h+='<p class="note">פגישות הרמטכ״ל עם בכירים מחו״ל ועם הדרג הפיקודי: לא נמצא דיווח עדכני על פגישה כזו בשבועות האחרונים, והיא תופיע כאן כשתפורסם.</p>';
+  h+=it.length?'<div class="g">'+it.map(card).join("")+'</div>':'<p class="note">אין עדכונים כרגע.</p>';
+  h+='</section>'});
+ document.getElementById("mn").innerHTML=h;
+ document.getElementById("tk").textContent=IT.slice(0,5).map(function(x){return x.h}).join("   ●   ");
+}
+function nav(){
+ var h="";[["all","הכול"]].concat(S).forEach(function(s){h+='<button type="button" data-i="'+s[0]+'" aria-pressed="'+(s[0]===cur)+'">'+e(s[1])+'</button>'});
+ var n=document.getElementById("nv");n.innerHTML=h;
+ n.onclick=function(ev){var b=ev.target.closest("button");if(!b)return;cur=b.dataset.i;nav();draw();window.scrollTo(0,0)};
 }
 function load(){
  fetch("data.json?t="+Date.now()).then(function(r){return r.json()}).then(function(j){
-  DATA=(j.items||[]).slice().sort(function(a,b){return new Date(b.ts)-new Date(a.ts)});
-  document.getElementById("upd").textContent="עודכן לאחרונה: "+new Date(j.updated).toLocaleString("he-IL",{day:"numeric",month:"numeric",hour:"2-digit",minute:"2-digit"});
-  render();
- }).catch(function(){document.getElementById("upd").textContent="לא ניתן לטעון עדכונים"});
+  build(j.items);document.getElementById("up").textContent="עודכן: "+new Date(j.updated).toLocaleString("he-IL",{day:"numeric",month:"numeric",hour:"2-digit",minute:"2-digit"});draw();
+ }).catch(function(){build([]);draw()});
 }
-document.getElementById("q").oninput=render;
-chips();load();setInterval(load,REFRESH_MS);
+document.getElementById("dt").textContent=new Date().toLocaleDateString("he-IL",{weekday:"long",day:"numeric",month:"long",year:"numeric"});
+document.getElementById("th").onclick=function(){var r=document.documentElement,d=r.dataset.theme?r.dataset.theme==="dark":matchMedia("(prefers-color-scheme: dark)").matches;r.dataset.theme=d?"light":"dark"};
+build([]);nav();draw();load();setInterval(load,14*60*1000);
 </script>
 </body>
 </html>
