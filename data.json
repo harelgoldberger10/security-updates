@@ -1,6 +1,27 @@
 {
- "updated": "2026-11-04T10:54:12.941765+00:00",
+ "updated": "2026-11-04T11:45:47.508508+00:00",
  "items": [
+  {
+   "title": "במהלך השבוע: צה\"ל ושב\"כ חיסלו שישה מחבלים מארגוני טרור ברצועת עזה",
+   "link": "https://www.maariv.co.il/breaking-news/article-1384788",
+   "source": "מעריב מבזקים",
+   "ts": "2026-11-04T11:36:39+00:00",
+   "cat": "gaza"
+  },
+  {
+   "title": "טיל אחד ישנה הכל: הנתון המפחיד באמת מאחורי מלחמה מול איראן",
+   "link": "https://www.maariv.co.il/breaking-news/article-1384787",
+   "source": "מעריב מבזקים",
+   "ts": "2026-11-04T11:33:37+00:00",
+   "cat": "iran"
+  },
+  {
+   "title": "בכירים לשעבר במערכת הביטחון ובמשפט נגד זיני: \"ספק בהתאמתו לתפקיד\"",
+   "link": "https://www.ynet.co.il/news/article/rj3ebt00tme",
+   "source": "ynet",
+   "ts": "2026-11-04T10:59:20+00:00",
+   "cat": "intel"
+  },
   {
    "title": "סערת חקירת הח\"כים: השב\"כ מכניס את להב 433 לתמונה - עוד חברי כנסת צפויים להיחקר | פרסום ראשון",
    "link": "https://www.maariv.co.il/news/military/article-1384755",
@@ -20,6 +41,13 @@
    "link": "https://www.ynet.co.il/news/article/rywaz0000azg",
    "source": "ynet",
    "ts": "2026-11-04T09:46:57+00:00",
+   "cat": "iran"
+  },
+  {
+   "title": "מתחת למים: הטקטיקה החדשה של איראן להשתלטות על הורמוז",
+   "link": "https://www.walla.co.il/news/world/383960056",
+   "source": "וואלה",
+   "ts": "2026-11-04T09:46:53+00:00",
    "cat": "iran"
   },
   {
