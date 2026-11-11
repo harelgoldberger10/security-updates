@@ -1,6 +1,41 @@
 {
- "updated": "2026-11-11T05:34:39.929205+00:00",
+ "updated": "2026-11-11T06:35:12.548251+00:00",
  "items": [
+  {
+   "title": "נשיא איראן קושר בין המלחמה לבחירות - ומכוון לישראל",
+   "link": "https://www.maariv.co.il/news/world/article-1387215",
+   "source": "מעריב",
+   "ts": "2026-11-11T06:11:16+00:00",
+   "cat": "iran"
+  },
+  {
+   "title": "התעשייה האיראנית מתאוששת - ומייצרת עשרות טילים בחודש",
+   "link": "https://www.maariv.co.il/news/world/article-1387210",
+   "source": "מעריב",
+   "ts": "2026-11-11T05:47:16+00:00",
+   "cat": "iran"
+  },
+  {
+   "title": "טרור בשידור חי: פעיל פרו-איראני הנחה את התקיפה בבית הכנסת",
+   "link": "https://www.walla.co.il/news/world/383960922",
+   "source": "וואלה",
+   "ts": "2026-11-11T05:42:16+00:00",
+   "cat": "iran"
+  },
+  {
+   "title": "אפקט של טיל בליסטי שחומק מהרדאר: האיום החדש שמשנה את חוקי המשחק מול איראן",
+   "link": "https://www.maariv.co.il/breaking-news/article-1387204",
+   "source": "מעריב מבזקים",
+   "ts": "2026-11-11T05:35:35+00:00",
+   "cat": "iran"
+  },
+  {
+   "title": "איראן, תימן, ואולי גם טורקיה: הטיל הישראלי החדש שנועד לאיומי העתיד",
+   "link": "https://www.maariv.co.il/breaking-news/article-1387202",
+   "source": "מעריב מבזקים",
+   "ts": "2026-11-11T05:34:55+00:00",
+   "cat": "iran"
+  },
   {
    "title": "בגלל איומים מאיראן: הבכיר האמריקאי עבר להתגורר בבסיס צבאי",
    "link": "https://www.maariv.co.il/news/world/article-1387197",
@@ -20,6 +55,20 @@
    "link": "https://www.ynet.co.il/news/article/ryfvbdb0fe",
    "source": "ynet",
    "ts": "2026-11-11T04:50:05+00:00",
+   "cat": "iran"
+  },
+  {
+   "title": "ההפתעה למלחמה הבאה באיראן: רפאל חושפת טיל שיוט משופר",
+   "link": "https://finance.walla.co.il/item/3875783",
+   "source": "וואלה",
+   "ts": "2026-11-11T04:00:00+00:00",
+   "cat": "iran"
+  },
+  {
+   "title": "איראן איימה, והשר הבכיר נאלץ לעזוב את ביתו למקום בטוח",
+   "link": "https://www.walla.co.il/news/world/383960933",
+   "source": "וואלה",
+   "ts": "2026-11-11T03:50:00+00:00",
    "cat": "iran"
   },
   {
