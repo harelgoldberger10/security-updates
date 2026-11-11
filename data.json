@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-11T21:06:51.820958+00:00",
+ "updated": "2026-11-11T22:11:17.833913+00:00",
  "items": [
+  {
+   "title": "ואנס יהפוך למנהל המו\"מ? הדיווח - והבכיר הניצי האיראני שינסה לסכל הסכם",
+   "link": "https://www.ynet.co.il/news/article/symstlfcze",
+   "source": "ynet",
+   "ts": "2026-11-11T21:41:33+00:00",
+   "cat": "iran"
+  },
   {
    "title": "התכנסות הקבינט, ההתנגדות האמריקנית: לנתניהו מותר לצאת למלחמה באיראן?",
    "link": "https://www.ynet.co.il/news/article/bjdmvezcgl",
@@ -2793,13 +2800,6 @@
    "source": "ynet",
    "ts": "2026-10-20T12:00:00+03:00",
    "cat": "idf"
-  },
-  {
-   "title": "ראש הממשלה הציג תפיסת ביטחון חדשה",
-   "link": "https://www.mako.co.il/news-military/2026_q4/Article-fa32ba5be8f41a1027.htm",
-   "source": "מאקו",
-   "ts": "2026-10-18T12:00:00+03:00",
-   "cat": "gov"
   }
  ]
 }
