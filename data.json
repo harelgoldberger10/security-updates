@@ -1,6 +1,27 @@
 {
- "updated": "2026-11-12T07:57:46.041899+00:00",
+ "updated": "2026-11-12T08:54:00.450097+00:00",
  "items": [
+  {
+   "title": "לראשונה: גדי איזנקוט יקבל תדריך ביטחוני מהמזכיר הצבאי של נתניהו",
+   "link": "https://www.maariv.co.il/breaking-news/article-1387697",
+   "source": "מעריב מבזקים",
+   "ts": "2026-11-12T08:51:46+00:00",
+   "cat": "gov"
+  },
+  {
+   "title": "צה\"ל מאשר: מפקד חטיבת חאן יונס בחמאס הותקף במקום המסתור שלו",
+   "link": "https://www.maariv.co.il/breaking-news/article-1387673",
+   "source": "מעריב מבזקים",
+   "ts": "2026-11-12T08:22:36+00:00",
+   "cat": "gaza"
+  },
+  {
+   "title": "וושינגטון, יש לנו בעיה: שכנותיה של איראן מסרבות ללחץ האמריקני לסגירת גבולותיהן",
+   "link": "https://www.ynet.co.il/news/article/rkl1p17rmg",
+   "source": "ynet",
+   "ts": "2026-11-12T07:54:59+00:00",
+   "cat": "iran"
+  },
   {
    "title": "בלי מאבק: חיזבאללה מהדק את השליטה שלו במדינת לבנון | עמית יגור",
    "link": "https://www.maariv.co.il/news/opinions/article-1387653",
@@ -2779,27 +2800,6 @@
    "source": "ynet",
    "ts": "2026-10-31T14:51:37+00:00",
    "cat": "intel"
-  },
-  {
-   "title": "ההתנהלות התמוהה של ראש השב\"כ - וגלגול הקמפיין נגד המפלגות הערביות",
-   "link": "https://www.ynet.co.il/news/article/rkyoav7aze",
-   "source": "ynet",
-   "ts": "2026-10-31T14:51:37+00:00",
-   "cat": "intel"
-  },
-  {
-   "title": "גורם צבאי בכיר: היינו כפסע מפעולה התקפית באיראן - ואנחנו עדיין שם",
-   "link": "https://www.ynet.co.il/news/article/yokra14942037",
-   "source": "ynet",
-   "ts": "2026-10-31T13:35:31+00:00",
-   "cat": "iran"
-  },
-  {
-   "title": "מהלומה אפשרית באיראן: טראמפ ונתניהו לא חושבים על אותו הדבר",
-   "link": "https://www.ynet.co.il/news/article/hka00rqxpfe",
-   "source": "ynet",
-   "ts": "2026-10-31T12:40:20+02:00",
-   "cat": "iran"
   }
  ]
 }
