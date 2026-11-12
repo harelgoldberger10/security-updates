@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-12T21:27:29.543486+00:00",
+ "updated": "2026-11-12T22:16:17.771785+00:00",
  "items": [
+  {
+   "title": "הבוץ העזתי: החורף עושה שמות ברצועה, אבל חמאס רק מתחזק",
+   "link": "https://www.ynet.co.il/news/article/yokra14955936",
+   "source": "ynet",
+   "ts": "2026-11-12T22:00:00+00:00",
+   "cat": "gaza"
+  },
   {
    "title": "דיווח באיראן: העיר סריק הותקפה",
    "link": "https://www.maariv.co.il/breaking-news/article-1387923",
@@ -2792,13 +2799,6 @@
    "link": "https://www.maariv.co.il/breaking-news/article-1383406",
    "source": "מעריב מבזקים",
    "ts": "2026-11-01T08:33:26+00:00",
-   "cat": "leb"
-  },
-  {
-   "title": "אחרי הביפרים בלבנון: ישראל מתכננת מתקפת פתע דרמטית בלב איראן?",
-   "link": "https://www.maariv.co.il/news/military/article-1383401",
-   "source": "מעריב",
-   "ts": "2026-11-01T08:25:05+00:00",
    "cat": "leb"
   }
  ]
