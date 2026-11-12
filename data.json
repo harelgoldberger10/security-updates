@@ -1,6 +1,34 @@
 {
- "updated": "2026-11-12T05:38:41.215466+00:00",
+ "updated": "2026-11-12T06:40:07.091592+00:00",
  "items": [
+  {
+   "title": "התקיפה החריגה בעזה: היעד לחיסול - מח\"ט חאן יונס",
+   "link": "https://www.maariv.co.il/breaking-news/article-1387607",
+   "source": "מעריב מבזקים",
+   "ts": "2026-11-12T06:25:04+00:00",
+   "cat": "gaza"
+  },
+  {
+   "title": "האם ממשלת מעבר יכולה לפתוח במלחמה עם איראן?",
+   "link": "https://www.walla.co.il/news/world/383961095",
+   "source": "וואלה",
+   "ts": "2026-11-12T06:00:00+00:00",
+   "cat": "iran"
+  },
+  {
+   "title": "חדרי חקירות ומחסני אמל\"ח: צה\"ל תקף מחבלי חמאס בכירים שהסתתרו בבית חולים בעזה",
+   "link": "https://www.maariv.co.il/news/military/article-1387597",
+   "source": "מעריב",
+   "ts": "2026-11-12T05:44:06+00:00",
+   "cat": "gaza"
+  },
+  {
+   "title": "צה\"ל תקף את מח\"ט חאן-יונס בחמאס; הפלסטינים: 6 נהרגו",
+   "link": "https://www.walla.co.il/news/military/383961109",
+   "source": "וואלה",
+   "ts": "2026-11-12T05:37:24+00:00",
+   "cat": "gaza"
+  },
   {
    "title": "ישראל חשפה את SUPER ICE - איראן מיהרה להגיב עם טיל טווח 13 אלף ק\"מ",
    "link": "https://www.maariv.co.il/breaking-news/article-1387592",
@@ -2772,34 +2800,6 @@
    "source": "ynet",
    "ts": "2026-10-31T06:30:52+00:00",
    "cat": "iran"
-  },
-  {
-   "title": "האיתות הראשון הגיע לישראל: מסתמן - זה התאריך שסימן טראמפ לתקיפה באיראן",
-   "link": "https://www.maariv.co.il/breaking-news/article-1383110",
-   "source": "מעריב מבזקים",
-   "ts": "2026-10-31T04:38:55+00:00",
-   "cat": "iran"
-  },
-  {
-   "title": "פיצוצים במפרץ הפרסי, טראמפ: \"איראן רוצה לדבר, לנו יש זמן\"",
-   "link": "https://www.ynet.co.il/news/article/skn6tjfaze",
-   "source": "ynet",
-   "ts": "2026-10-31T01:05:51+00:00",
-   "cat": "iran"
-  },
-  {
-   "title": "המוסד מעורב בחקירת מבצעי התודעה בבחירות, במוקד: טורקיה וקטאר",
-   "link": "https://www.ynet.co.il/news/article/b19vmeztfl",
-   "source": "ynet",
-   "ts": "2026-10-30T17:15:47+02:00",
-   "cat": "intel"
-  },
-  {
-   "title": "המוסד מצטרף לשב״כ בחקירת החשד להתערבות קטארית בבחירות",
-   "link": "https://13tv.co.il/item/news/domestic/crime-and-justice/mossad-905431704/",
-   "source": "חדשות 13",
-   "ts": "2026-10-30T12:00:00+03:00",
-   "cat": "intel"
   }
  ]
 }
