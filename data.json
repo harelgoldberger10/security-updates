@@ -1,6 +1,55 @@
 {
- "updated": "2026-11-12T06:40:07.091592+00:00",
+ "updated": "2026-11-12T07:57:46.041899+00:00",
  "items": [
+  {
+   "title": "בלי מאבק: חיזבאללה מהדק את השליטה שלו במדינת לבנון | עמית יגור",
+   "link": "https://www.maariv.co.il/news/opinions/article-1387653",
+   "source": "מעריב",
+   "ts": "2026-11-12T07:54:14+00:00",
+   "cat": "leb"
+  },
+  {
+   "title": "ישראל כ\"ץ עולה להתקפה: \"יש ראש ממשלה אחד, שר ביטחון אחד\"",
+   "link": "https://www.maariv.co.il/news/politics/article-1387647",
+   "source": "מעריב",
+   "ts": "2026-11-12T07:43:33+00:00",
+   "cat": "gov"
+  },
+  {
+   "title": "הפלסטינים: מח\"ט חאן יונס חוסל | זה \"מתקן העינויים\" של חמאס שהותקף",
+   "link": "https://www.ynet.co.il/news/article/sytwbkx0mg",
+   "source": "ynet",
+   "ts": "2026-11-12T07:42:39+00:00",
+   "cat": "gaza"
+  },
+  {
+   "title": "החשש בצמרת הביטחונית:  \"יש כאן נסיון של נתניהו לבצע מחטף בטחוני\"",
+   "link": "https://www.maariv.co.il/breaking-news/article-1387646",
+   "source": "מעריב מבזקים",
+   "ts": "2026-11-12T07:32:46+00:00",
+   "cat": "gov"
+  },
+  {
+   "title": "המשבר הכלכלי בלבנון מעמיק ומאיים על יציבות המדינה",
+   "link": "https://www.maariv.co.il/breaking-news/article-1387622",
+   "source": "מעריב מבזקים",
+   "ts": "2026-11-12T06:55:40+00:00",
+   "cat": "leb"
+  },
+  {
+   "title": "ההרתעה האמריקאית כשלה? טראמפ טוען שהמלחמה נגמרה - איראן לא עודכנה",
+   "link": "https://www.maariv.co.il/news/world/article-1387613",
+   "source": "מעריב",
+   "ts": "2026-11-12T06:46:07+00:00",
+   "cat": "iran"
+  },
+  {
+   "title": "חבר הכנסת מרע\"ם בהצהרה: \"חמאס הוא ארגון טרור\"",
+   "link": "https://www.maariv.co.il/news/politics/article-1387617",
+   "source": "מעריב",
+   "ts": "2026-11-12T06:43:30+00:00",
+   "cat": "gaza"
+  },
   {
    "title": "התקיפה החריגה בעזה: היעד לחיסול - מח\"ט חאן יונס",
    "link": "https://www.maariv.co.il/breaking-news/article-1387607",
@@ -2750,55 +2799,6 @@
    "link": "https://www.ynet.co.il/news/article/hka00rqxpfe",
    "source": "ynet",
    "ts": "2026-10-31T12:40:20+02:00",
-   "cat": "iran"
-  },
-  {
-   "title": "בדרך לאיראן: ישראל עלולה לקבל הפתעה לא נעימה מהמדינה הערבית",
-   "link": "https://www.maariv.co.il/news/world/article-1383168",
-   "source": "מעריב",
-   "ts": "2026-10-31T12:35:56+00:00",
-   "cat": "iran"
-  },
-  {
-   "title": "טורקיה על סף שיגעון: \"איראן, סוריה ולבנון - ישראל עכשיו הולכת לתקוף את היעד הבא\"",
-   "link": "https://www.maariv.co.il/breaking-news/article-1383159",
-   "source": "מעריב מבזקים",
-   "ts": "2026-10-31T11:20:00+00:00",
-   "cat": "leb"
-  },
-  {
-   "title": "בעזה טוענים: ישראל נותנת למחבלי חמאס לבחור איך ימותו",
-   "link": "https://www.maariv.co.il/news/military/article-1383155",
-   "source": "מעריב",
-   "ts": "2026-10-31T11:02:31+00:00",
-   "cat": "gaza"
-  },
-  {
-   "title": "סגן שר איראני בקטאר, חמינאי בהצהרה לוחמנית: \"רק אנחנו נקבע מתי זה ייגמר\"",
-   "link": "https://www.ynet.co.il/news/article/bjvvis76gl",
-   "source": "ynet",
-   "ts": "2026-10-31T11:01:25+00:00",
-   "cat": "iran"
-  },
-  {
-   "title": "בנק מטרות מעודכן ותגובה \"ללא גבולות\": מוג'תבא חמינאי מכין את צבא איראן למלחמה",
-   "link": "https://www.maariv.co.il/news/world/article-1383149",
-   "source": "מעריב",
-   "ts": "2026-10-31T09:41:11+00:00",
-   "cat": "iran"
-  },
-  {
-   "title": "בכיר איראני: \"השלמנו תוכנית מבצעית מקיפה - שתגרום להלם מעבר לכל דמיון\"",
-   "link": "https://www.maariv.co.il/breaking-news/article-1383145",
-   "source": "מעריב מבזקים",
-   "ts": "2026-10-31T09:06:45+00:00",
-   "cat": "iran"
-  },
-  {
-   "title": "דיווחים סותרים: בקטאר טענו ל\"פריצת דרך\" עם איראן; ארה\"ב למפרציות: התכוננו לשבוע הבא",
-   "link": "https://www.ynet.co.il/news/article/r1dlow76me",
-   "source": "ynet",
-   "ts": "2026-10-31T06:30:52+00:00",
    "cat": "iran"
   }
  ]
