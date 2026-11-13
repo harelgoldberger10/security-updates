@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-13T09:44:08.260508+00:00",
+ "updated": "2026-11-13T10:44:45.141464+00:00",
  "items": [
+  {
+   "title": "האל\"מ שלא מתפשר על עתיד עזה: \"או כיבוש מוחלט או הגירה מרצון - אין אופצית ביניים\"",
+   "link": "https://www.maariv.co.il/news/military/article-1388039",
+   "source": "מעריב",
+   "ts": "2026-11-13T10:36:07+00:00",
+   "cat": "gaza"
+  },
+  {
+   "title": "המלחמה עם איראן לא נגמרה, היא כנראה נדחתה",
+   "link": "https://www.ynet.co.il/news/article/sysjqixrzl",
+   "source": "ynet",
+   "ts": "2026-11-13T10:00:09+00:00",
+   "cat": "iran"
+  },
   {
    "title": "החיסולים חושפים את עומק החדירה: הלחץ שמטלטל את חמאס מבפנים",
    "link": "https://www.maariv.co.il/breaking-news/article-1388022",
@@ -2786,20 +2800,6 @@
    "source": "וואלה",
    "ts": "2026-11-01T13:50:00+00:00",
    "cat": "gaza"
-  },
-  {
-   "title": "חיל האוויר מכה שוב בעזה: דיווחים על חיסולים בשני מוקדים",
-   "link": "https://www.maariv.co.il/news/military/article-1383548",
-   "source": "מעריב",
-   "ts": "2026-11-01T12:53:06+00:00",
-   "cat": "gaza"
-  },
-  {
-   "title": "המומחה מסביר: טראמפ יכול להכריז שניצח - אבל באיראן מצפה לו מבחן אחר",
-   "link": "https://www.maariv.co.il/breaking-news/article-1383532",
-   "source": "מעריב מבזקים",
-   "ts": "2026-11-01T12:20:53+00:00",
-   "cat": "iran"
   }
  ]
 }
