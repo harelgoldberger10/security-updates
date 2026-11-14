@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T13:45:08.477550+00:00",
+ "updated": "2026-11-14T14:29:24.842433+00:00",
  "items": [
   {
    "title": "אנגלה מרקל: \"ישראל הלכה רחוק מדי בעזה, אבל הסיקור חסר פרופורציה\"",
@@ -20,6 +20,13 @@
    "link": "https://www.maariv.co.il/news/politics/article-1388220",
    "source": "מעריב",
    "ts": "2026-11-14T12:03:32+00:00",
+   "cat": "iran"
+  },
+  {
+   "title": "ישראל דוחפת למתקפה באיראן - טראמפ מאותת על שינוי כיוון",
+   "link": "https://www.walla.co.il/news/world/383961366",
+   "source": "וואלה",
+   "ts": "2026-11-14T11:42:31+00:00",
    "cat": "iran"
   },
   {
@@ -2792,13 +2799,6 @@
    "link": "https://www.ynet.co.il/news/article/rjhrp3raze",
    "source": "ynet",
    "ts": "2026-11-02T09:30:57+00:00",
-   "cat": "iran"
-  },
-  {
-   "title": "אחרי שלושה ימים: איראן עזבה את שיחות הגישור. האם המלחמה מסתיימת?",
-   "link": "https://www.maariv.co.il/news/military/article-1383876",
-   "source": "מעריב",
-   "ts": "2026-11-02T09:11:18+00:00",
    "cat": "iran"
   }
  ]
