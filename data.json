@@ -1,6 +1,34 @@
 {
- "updated": "2026-11-14T21:59:42.476687+00:00",
+ "updated": "2026-11-14T22:36:17.998724+00:00",
  "items": [
+  {
+   "title": "דיווחים בעזה: מפקד חטיבת רפיח בחמאס חוסל בתקיפת צה\"ל",
+   "link": "https://www.maariv.co.il/breaking-news/article-1388395",
+   "source": "מעריב מבזקים",
+   "ts": "2026-11-14T22:29:18+00:00",
+   "cat": "gaza"
+  },
+  {
+   "title": "דיווחים: מח\"ט רפיח חוסל ברצועת עזה",
+   "link": "https://www.ynet.co.il/news/article/sytq2liczx",
+   "source": "ynet",
+   "ts": "2026-11-14T22:27:26+00:00",
+   "cat": "gaza"
+  },
+  {
+   "title": "צה\"ל ושב\"כ: מחבל חמאס בכיר הותקף ברצועת עזה",
+   "link": "https://www.maariv.co.il/breaking-news/article-1388394",
+   "source": "מעריב מבזקים",
+   "ts": "2026-11-14T22:18:07+00:00",
+   "cat": "gaza"
+  },
+  {
+   "title": "חיל הים של משמרות המהפכה: שתי מיכליות נפט עלו באש במצר הורמוז",
+   "link": "https://www.maariv.co.il/breaking-news/article-1388393",
+   "source": "מעריב מבזקים",
+   "ts": "2026-11-14T22:00:53+00:00",
+   "cat": "iran"
+  },
   {
    "title": "ישראל עשויה \"להידרש לפעולת סולו\" באיראן, צה\"ל דורש ודאות אסטרטגית",
    "link": "https://www.ynet.co.il/news/article/hy11dym80ml",
@@ -2772,34 +2800,6 @@
    "source": "ynet",
    "ts": "2026-11-02T13:59:03+00:00",
    "cat": "intel"
-  },
-  {
-   "title": "השגריר דנון באזהרה למשטר האיראני: \"היהירות שלכם תביא למפלתכם. האדמה שמתחת לרגליכם רותחת\"",
-   "link": "https://www.maariv.co.il/breaking-news/article-1384028",
-   "source": "מעריב מבזקים",
-   "ts": "2026-11-02T13:47:57+00:00",
-   "cat": "iran"
-  },
-  {
-   "title": "יאיר גולן: \"בכל דקת עיכוב בהקמת ממשלה - נתניהו מקרב אותנו לאסון ביטחוני\"",
-   "link": "https://www.maariv.co.il/breaking-news/article-1384018",
-   "source": "מעריב מבזקים",
-   "ts": "2026-11-02T13:25:19+00:00",
-   "cat": "gov"
-  },
-  {
-   "title": "לא הזכיר את איראן: מלך ירדן סימן את האיום הגדול באזור",
-   "link": "https://www.maariv.co.il/news/world/article-1383998",
-   "source": "מעריב",
-   "ts": "2026-11-02T12:57:06+00:00",
-   "cat": "iran"
-  },
-  {
-   "title": "\"מר וטו\" מכה שנית: טראמפ מבטיח כאוס לדמוקרטים ומאיים על איראן",
-   "link": "https://www.maariv.co.il/news/world/article-1383997",
-   "source": "מעריב",
-   "ts": "2026-11-02T12:45:19+00:00",
-   "cat": "iran"
   }
  ]
 }
