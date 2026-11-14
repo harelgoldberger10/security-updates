@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-14T08:35:08.959790+00:00",
+ "updated": "2026-11-14T09:25:39.765493+00:00",
  "items": [
+  {
+   "title": "דיווח בלבנון: תקיפות בדרום המדינה",
+   "link": "https://www.maariv.co.il/breaking-news/article-1388200",
+   "source": "מעריב מבזקים",
+   "ts": "2026-11-14T09:20:56+00:00",
+   "cat": "leb"
+  },
+  {
+   "title": "חשש מאיום איראני: רחפנים חדרו לבסיס אמריקאי בבריטניה",
+   "link": "https://www.maariv.co.il/breaking-news/article-1388198",
+   "source": "מעריב מבזקים",
+   "ts": "2026-11-14T09:15:58+00:00",
+   "cat": "iran"
+  },
   {
    "title": "\"טראמפ שוקל להשאיר למדינות המפרץ את המו\"מ עם איראן על מצר הורמוז\"",
    "link": "https://www.ynet.co.il/news/article/ry116kkrage",
@@ -2785,20 +2799,6 @@
    "link": "https://www.maariv.co.il/news/world/article-1383795",
    "source": "מעריב",
    "ts": "2026-11-02T06:18:14+00:00",
-   "cat": "iran"
-  },
-  {
-   "title": "שני מחבלים חוסלו ברצועת עזה - אחד מהם פלש לישראל במהלך טבח ה-7 באוקטובר",
-   "link": "https://www.maariv.co.il/breaking-news/article-1383798",
-   "source": "מעריב מבזקים",
-   "ts": "2026-11-02T06:11:45+00:00",
-   "cat": "gaza"
-  },
-  {
-   "title": "טראמפ מחפש שעיר לעזאזל - ומתכנן את הצעד הבא מול איראן",
-   "link": "https://www.maariv.co.il/news/world/article-1383787",
-   "source": "מעריב",
-   "ts": "2026-11-02T05:45:17+00:00",
    "cat": "iran"
   }
  ]
