@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-14T22:36:17.998724+00:00",
+ "updated": "2026-11-14T23:13:14.262679+00:00",
  "items": [
+  {
+   "title": "שר הביטחון מתייחס לדיווחים בעזה: \"עוד אחד מצטרף לקודמיו במעמקי הגיהנום\"",
+   "link": "https://www.maariv.co.il/breaking-news/article-1388399",
+   "source": "מעריב מבזקים",
+   "ts": "2026-11-14T22:51:47+00:00",
+   "cat": "gaza"
+  },
+  {
+   "title": "צה\"ל תקף בכיר בחמאס - בעזה מדווחים על חיסול מפקד חטיבת רפיח",
+   "link": "https://www.maariv.co.il/news/military/article-1388397",
+   "source": "מעריב",
+   "ts": "2026-11-14T22:51:31+00:00",
+   "cat": "gaza"
+  },
   {
    "title": "דיווחים בעזה: מפקד חטיבת רפיח בחמאס חוסל בתקיפת צה\"ל",
    "link": "https://www.maariv.co.il/breaking-news/article-1388395",
@@ -2785,20 +2799,6 @@
    "link": "https://www.maariv.co.il/news/military/article-1384042",
    "source": "מעריב",
    "ts": "2026-11-02T14:15:07+00:00",
-   "cat": "intel"
-  },
-  {
-   "title": "בשיא המתיחות - ישראל שולחת מסר לטהרן: \"אתם עושים טעות עצומה\"",
-   "link": "https://www.maariv.co.il/news/politics/article-1384025",
-   "source": "מעריב",
-   "ts": "2026-11-02T14:13:44+00:00",
-   "cat": "iran"
-  },
-  {
-   "title": "ראש המוסד לשעבר בהתבטאות חריגה על מנהיג סעודיה: \"כנראה לא בוגר מספיק\"",
-   "link": "https://www.ynet.co.il/news/article/rk3qfg86fx",
-   "source": "ynet",
-   "ts": "2026-11-02T13:59:03+00:00",
    "cat": "intel"
   }
  ]
