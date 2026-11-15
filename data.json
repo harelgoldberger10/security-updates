@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-15T17:08:14.408806+00:00",
+ "updated": "2026-11-15T17:43:50.779274+00:00",
  "items": [
+  {
+   "title": "בכיר המוסד לשעבר מסביר: \"באותו רגע ישראל איבדה את החוט לרון\" | האזינו",
+   "link": "https://www.maariv.co.il/news/military/article-1388753",
+   "source": "מעריב",
+   "ts": "2026-11-15T17:40:22+00:00",
+   "cat": "intel"
+  },
   {
    "title": "ראש המוסד רומן גופמן שישתתף הערב בקבינט - חזר מארה\"ב: \"עסק בענייני איראן\"",
    "link": "https://www.maariv.co.il/breaking-news/article-1388736",
@@ -2792,13 +2799,6 @@
    "link": "https://www.maariv.co.il/news/world/article-1384540",
    "source": "מעריב",
    "ts": "2026-11-03T18:33:16+00:00",
-   "cat": "iran"
-  },
-  {
-   "title": "ניו יורק טיימס: ישראל הזהירה את ארה\"ב שאיראן שוקלת להשתמש בנשק כימי נגד יריבותיה",
-   "link": "https://www.ynet.co.il/news/article/bk9czip6gl",
-   "source": "ynet",
-   "ts": "2026-11-03T18:16:55+00:00",
    "cat": "iran"
   }
  ]
