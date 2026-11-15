@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-14T23:47:23.989093+00:00",
+ "updated": "2026-11-15T00:23:37.582099+00:00",
  "items": [
+  {
+   "title": "דיווח: חמאס פרסמה הודעת אבל על מפקד גדוד רפיח בעזה",
+   "link": "https://www.maariv.co.il/breaking-news/article-1388402",
+   "source": "מעריב מבזקים",
+   "ts": "2026-11-15T00:06:15+00:00",
+   "cat": "gaza"
+  },
   {
    "title": "שר הביטחון מתייחס לדיווחים בעזה: \"עוד אחד מצטרף לקודמיו במעמקי הגיהנום\"",
    "link": "https://www.maariv.co.il/breaking-news/article-1388399",
@@ -2792,13 +2799,6 @@
    "link": "https://www.walla.co.il/news/israel/383959823",
    "source": "וואלה",
    "ts": "2026-11-02T14:32:24+00:00",
-   "cat": "intel"
-  },
-  {
-   "title": "ראש המוסד לשעבר מעריך: \"תתרחש פעולה צבאית ממוקדת נוספת באיראן\"",
-   "link": "https://www.maariv.co.il/news/military/article-1384042",
-   "source": "מעריב",
-   "ts": "2026-11-02T14:15:07+00:00",
    "cat": "intel"
   }
  ]
