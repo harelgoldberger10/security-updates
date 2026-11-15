@@ -1,11 +1,39 @@
 {
- "updated": "2026-11-15T07:44:59.641055+00:00",
+ "updated": "2026-11-15T08:36:24.193250+00:00",
  "items": [
+  {
+   "title": "לא רק חיסולים: בצה\"ל חושפים את התוכנית ליצירת כאוס בחמאס",
+   "link": "https://www.maariv.co.il/news/military/article-1388506",
+   "source": "מעריב",
+   "ts": "2026-11-15T08:25:26+00:00",
+   "cat": "gaza"
+  },
+  {
+   "title": "ריגל עבור טהרן מיוזמתו: תושב מזרעה נחשד בפגיעה בביטחון המדינה",
+   "link": "https://www.maariv.co.il/news/law/article-1388489",
+   "source": "מעריב",
+   "ts": "2026-11-15T08:13:11+00:00",
+   "cat": "iran"
+  },
+  {
+   "title": "בחריין הודיעה שיירטה תקיפות מאיראן",
+   "link": "https://www.walla.co.il/news/politics/383961449",
+   "source": "וואלה",
+   "ts": "2026-11-15T08:11:35+00:00",
+   "cat": "iran"
+  },
   {
    "title": "העימות עם ארה\"ב מתרחב: איראן שיגרה כטב\"מים לעבר בחריין",
    "link": "https://www.maariv.co.il/news/world/article-1388473",
    "source": "מעריב",
    "ts": "2026-11-15T07:39:01+00:00",
+   "cat": "iran"
+  },
+  {
+   "title": "האיום גדול בהרבה מאיראן: התרחיש שישראל לא מוכנה אליו | יצחק בריק",
+   "link": "https://www.maariv.co.il/news/opinions/article-1388462",
+   "source": "מעריב",
+   "ts": "2026-11-15T07:16:38+00:00",
    "cat": "iran"
   },
   {
@@ -2771,34 +2799,6 @@
    "link": "https://www.maariv.co.il/news/military/article-1384228",
    "source": "מעריב",
    "ts": "2026-11-03T06:34:31+00:00",
-   "cat": "iran"
-  },
-  {
-   "title": "שר החוץ האיראני מבהיר: \"מטרתנו היא להגיע להסדרי ביטחון אזוריים\"",
-   "link": "https://www.maariv.co.il/breaking-news/article-1384227",
-   "source": "מעריב מבזקים",
-   "ts": "2026-11-03T06:21:28+00:00",
-   "cat": "iran"
-  },
-  {
-   "title": "\"לא שאלה של אם - אלא מתי\": ישראל נערכת לפיצוץ עם איראן",
-   "link": "https://www.maariv.co.il/breaking-news/article-1384206",
-   "source": "מעריב מבזקים",
-   "ts": "2026-11-03T05:15:50+00:00",
-   "cat": "iran"
-  },
-  {
-   "title": "בתגובה לירי על כלי טיס אמריקאי: ארה\"ב תקפה הלילה באיראן | דיווח",
-   "link": "https://www.maariv.co.il/news/military/article-1384192",
-   "source": "מעריב",
-   "ts": "2026-11-03T04:18:44+00:00",
-   "cat": "iran"
-  },
-  {
-   "title": "דיווח: ארצות הברית תקפה במהלך הלילה באיראן",
-   "link": "https://www.maariv.co.il/breaking-news/article-1384191",
-   "source": "מעריב מבזקים",
-   "ts": "2026-11-03T04:08:15+00:00",
    "cat": "iran"
   }
  ]
