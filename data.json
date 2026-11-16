@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-16T15:33:00.859074+00:00",
+ "updated": "2026-11-16T16:55:33.332554+00:00",
  "items": [
+  {
+   "title": "400 מחבלים חוסלו - אבל בחיזבאללה חוששים מדבר אחר",
+   "link": "https://www.maariv.co.il/news/military/article-1389175",
+   "source": "מעריב",
+   "ts": "2026-11-16T16:37:23+00:00",
+   "cat": "leb"
+  },
+  {
+   "title": "ליד \"ערי הטילים\": התעלומה מאחורי מאות הסכרים באיראן",
+   "link": "https://www.ynet.co.il/news/article/bjbtakuczg",
+   "source": "ynet",
+   "ts": "2026-11-16T15:38:14+00:00",
+   "cat": "iran"
+  },
   {
    "title": "המשפט ההמוני הסתיים ב-64 מאסרי עולם: איראן במוקד",
    "link": "https://www.maariv.co.il/news/world/article-1389146",
@@ -2786,20 +2800,6 @@
    "source": "מעריב",
    "ts": "2026-11-04T19:02:43+00:00",
    "cat": "intel"
-  },
-  {
-   "title": "\"טראמפ: \"אם אדרש להילחם שוב באיראן אעשה זאת'\"",
-   "link": "https://www.walla.co.il/news/world/383960105",
-   "source": "וואלה",
-   "ts": "2026-11-04T18:30:00+00:00",
-   "cat": "iran"
-  },
-  {
-   "title": "המלחמה באיראן גובה מחיר? הדיווח על המהלך שטראמפ שוקל",
-   "link": "https://www.maariv.co.il/breaking-news/article-1384971",
-   "source": "מעריב מבזקים",
-   "ts": "2026-11-04T18:18:45+00:00",
-   "cat": "iran"
   }
  ]
 }
