@@ -1,6 +1,27 @@
 {
- "updated": "2026-11-16T17:52:53.513726+00:00",
+ "updated": "2026-11-16T18:41:26.959963+00:00",
  "items": [
+  {
+   "title": "ישראל מגבירה את החיסולים בעזה: \"לא נתפשר. זאת המדיניות\"",
+   "link": "https://www.maariv.co.il/news/military/article-1389206",
+   "source": "מעריב",
+   "ts": "2026-11-16T18:30:18+00:00",
+   "cat": "gaza"
+  },
+  {
+   "title": "סוכנות \"מהר\" האיראנית מדווחת על הפעלת מערכות ההגנה אוויריות באספהאן ברגעים אלו",
+   "link": "https://www.maariv.co.il/breaking-news/article-1389199",
+   "source": "מעריב מבזקים",
+   "ts": "2026-11-16T17:59:53+00:00",
+   "cat": "iran"
+  },
+  {
+   "title": "סגירת חשבון בעזה: חוסל מפקד חמאס שפשט לישראל ב-7 באוקטובר",
+   "link": "https://www.maariv.co.il/breaking-news/article-1389196",
+   "source": "מעריב מבזקים",
+   "ts": "2026-11-16T17:57:32+00:00",
+   "cat": "gaza"
+  },
   {
    "title": "400 מחבלים חוסלו - אבל בחיזבאללה חוששים מדבר אחר",
    "link": "https://www.maariv.co.il/news/military/article-1389175",
@@ -2778,27 +2799,6 @@
    "link": "https://www.ynet.co.il/news/article/syzki3opfe",
    "source": "ynet",
    "ts": "2026-11-04T19:50:29+00:00",
-   "cat": "intel"
-  },
-  {
-   "title": "\"הרבה מעבר למסעדה\": המוסד הקולינרי בראשון לציון סוגר את שעריו",
-   "link": "https://www.maariv.co.il/breaking-news/article-1384993",
-   "source": "מעריב מבזקים",
-   "ts": "2026-11-04T19:25:47+00:00",
-   "cat": "intel"
-  },
-  {
-   "title": "חקירת החשד למימון זר בבחירות: בכירי להב 433 והשב\"כ ייפגשו מחר",
-   "link": "https://www.maariv.co.il/breaking-news/article-1384989",
-   "source": "מעריב מבזקים",
-   "ts": "2026-11-04T19:13:05+00:00",
-   "cat": "intel"
-  },
-  {
-   "title": "לאחר הפיצוץ: ראש השב\"כ והיועמ\"שית נפגשו בארבע עיניים",
-   "link": "https://www.maariv.co.il/news/politics/article-1384982",
-   "source": "מעריב",
-   "ts": "2026-11-04T19:02:43+00:00",
    "cat": "intel"
   }
  ]
