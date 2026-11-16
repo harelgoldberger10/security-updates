@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-16T19:41:23.352063+00:00",
+ "updated": "2026-11-16T20:30:20.744139+00:00",
  "items": [
+  {
+   "title": "התעלם מסוגיית ממשלת המעבר: הקבינט דן בתקיפה באיראן, ובהתנגדות ארה\"ב",
+   "link": "https://www.ynet.co.il/news/article/rju44tdrml",
+   "source": "ynet",
+   "ts": "2026-11-16T20:16:35+00:00",
+   "cat": "iran"
+  },
   {
    "title": "ישראל מגבירה את החיסולים בעזה: \"לא נתפשר. זאת המדיניות\"",
    "link": "https://www.maariv.co.il/news/military/article-1389206",
@@ -2792,13 +2799,6 @@
    "link": "https://www.maariv.co.il/breaking-news/article-1385009",
    "source": "מעריב מבזקים",
    "ts": "2026-11-04T19:55:45+00:00",
-   "cat": "intel"
-  },
-  {
-   "title": "משתתפי הדיון אצל סולברג היו בהלם: \"זיני לא מבין את היחסים בינו לבין החוק\"",
-   "link": "https://www.ynet.co.il/news/article/syzki3opfe",
-   "source": "ynet",
-   "ts": "2026-11-04T19:50:29+00:00",
    "cat": "intel"
   }
  ]
