@@ -1,6 +1,90 @@
 {
- "updated": "2026-11-16T12:19:13.398909+00:00",
+ "updated": "2026-11-16T15:33:00.859074+00:00",
  "items": [
+  {
+   "title": "המשפט ההמוני הסתיים ב-64 מאסרי עולם: איראן במוקד",
+   "link": "https://www.maariv.co.il/news/world/article-1389146",
+   "source": "מעריב",
+   "ts": "2026-11-16T15:30:12+00:00",
+   "cat": "iran"
+  },
+  {
+   "title": "כוחות צה\"ל עצרו שני פעילי טרור בדרום לבנון שפעלו בחסות חיזבאללה",
+   "link": "https://www.maariv.co.il/breaking-news/article-1389140",
+   "source": "מעריב מבזקים",
+   "ts": "2026-11-16T14:55:38+00:00",
+   "cat": "leb"
+  },
+  {
+   "title": "שוד האוצר הגדול של חיזבאללה: מאות מיליונים נגנבו מהשכנה של איראן",
+   "link": "https://www.maariv.co.il/news/world/article-1389123",
+   "source": "מעריב",
+   "ts": "2026-11-16T14:44:25+00:00",
+   "cat": "leb"
+  },
+  {
+   "title": "כבר ביום הראשון כיו\"ר, ליברמן חוטף מישראל כ\"ץ: \"כישלון ביטחוני\"",
+   "link": "https://www.maariv.co.il/news/military/article-1389100",
+   "source": "מעריב",
+   "ts": "2026-11-16T13:58:13+00:00",
+   "cat": "gov"
+  },
+  {
+   "title": "המסר מהקבינט לאיראן: \"אם יוחלט לפעול – ישראל תפעל גם לבדה\"",
+   "link": "https://www.maariv.co.il/news/politics/article-1389101",
+   "source": "מעריב",
+   "ts": "2026-11-16T13:40:02+00:00",
+   "cat": "iran"
+  },
+  {
+   "title": "טיבי קרא לחקור את רה\"מ, זיני והמפכ\"ל: \"יש מאפיה בי-ם\". גולן לאיזנקוט: \"זכור את גנץ\"",
+   "link": "https://www.ynet.co.il/news/article/hyk00pd0zx",
+   "source": "ynet",
+   "ts": "2026-11-16T13:38:54+00:00",
+   "cat": "intel"
+  },
+  {
+   "title": "\"השתלטו על מסגדים, קידמו הפיכה\": המהלך הנפיץ בממלכה שאיראן תוקפת",
+   "link": "https://www.ynet.co.il/news/article/byhwvdu0me",
+   "source": "ynet",
+   "ts": "2026-11-16T13:36:36+00:00",
+   "cat": "iran"
+  },
+  {
+   "title": "ישראל כ\"ץ: \"ליברמן הוא כישלון ביטחוני, לא אאפשר לו להפוך את ועדת החוץ והביטחון לקרקס פוליטי\"",
+   "link": "https://www.maariv.co.il/breaking-news/article-1389092",
+   "source": "מעריב מבזקים",
+   "ts": "2026-11-16T13:28:19+00:00",
+   "cat": "gov"
+  },
+  {
+   "title": "הפתעה בשמי עזה: הרחפנים של צה\"ל פיזרו מסר לא שגרתי",
+   "link": "https://www.maariv.co.il/news/military/article-1389081",
+   "source": "מעריב",
+   "ts": "2026-11-16T13:14:37+00:00",
+   "cat": "gaza"
+  },
+  {
+   "title": "בצל הקמת הממשלה, הרמטכ\"ל אייל זמיר מבהיר: \"לצה\"ל חסרים לוחמים\"",
+   "link": "https://www.maariv.co.il/news/military/article-1389082",
+   "source": "מעריב",
+   "ts": "2026-11-16T13:08:45+00:00",
+   "cat": "idf"
+  },
+  {
+   "title": "בצל המו\"מ בין איזנקוט לחרדים, הרמטכ\"ל מבהיר: \"חסרים לוחמים. זה לא השתנה\"",
+   "link": "https://www.ynet.co.il/news/article/bjjw900uaze",
+   "source": "ynet",
+   "ts": "2026-11-16T12:45:56+00:00",
+   "cat": "idf"
+  },
+  {
+   "title": "בלונים שעליהם הותקן מכשיר GPS אותרו בעוטף - נבדק אם נשלחו מעזה",
+   "link": "https://www.ynet.co.il/news/article/byc9cw000zx",
+   "source": "ynet",
+   "ts": "2026-11-16T12:22:54+00:00",
+   "cat": "gaza"
+  },
   {
    "title": "ליברמן בישיבת הסיעה: \"חוק הגיוס הוא חוק נורמטיבי - יעבור את הרמטכ״ל\"",
    "link": "https://www.maariv.co.il/breaking-news/article-1389062",
@@ -2716,90 +2800,6 @@
    "source": "מעריב מבזקים",
    "ts": "2026-11-04T18:18:45+00:00",
    "cat": "iran"
-  },
-  {
-   "title": "טראמפ הגיב לדברי סגנו ג'יי די ואנס: \"למנוע מאיראן נשק גרעיני\"",
-   "link": "https://www.maariv.co.il/breaking-news/article-1384969",
-   "source": "מעריב מבזקים",
-   "ts": "2026-11-04T18:13:25+00:00",
-   "cat": "iran"
-  },
-  {
-   "title": "זיני ובהרב-מיארה הסכימו על רגיעה. חומרי החקירה לא עברו למשטרה - ועודה לא זומן",
-   "link": "https://www.ynet.co.il/news/article/hkycut006ml",
-   "source": "ynet",
-   "ts": "2026-11-04T18:00:58+00:00",
-   "cat": "intel"
-  },
-  {
-   "title": "צה\"ל שבר את רצף ההבלגה בלבנון: האיתות לחיזבאללה ולאיראן",
-   "link": "https://www.maariv.co.il/breaking-news/article-1384939",
-   "source": "מעריב מבזקים",
-   "ts": "2026-11-04T16:51:21+00:00",
-   "cat": "leb"
-  },
-  {
-   "title": "אחרי שבועות של הימנעות: צה\"ל משנה גישה מול חיזבאללה",
-   "link": "https://www.maariv.co.il/breaking-news/article-1384938",
-   "source": "מעריב מבזקים",
-   "ts": "2026-11-04T16:51:17+00:00",
-   "cat": "leb"
-  },
-  {
-   "title": "הרמטכ\"ל זמיר למפקדים והלוחמים בשטח: \"צה\"ל דרוך להתפתחויות בזירות קרובות ורחוקות\"",
-   "link": "https://www.maariv.co.il/breaking-news/article-1384918",
-   "source": "מעריב מבזקים",
-   "ts": "2026-11-04T16:15:04+00:00",
-   "cat": "idf"
-  },
-  {
-   "title": "ואנס: הפסדנו בגלל המלחמה באיראן. הבוחרים רוצים שנשנה את היחסים עם ישראל",
-   "link": "https://www.ynet.co.il/news/article/sjcolc00tgg",
-   "source": "ynet",
-   "ts": "2026-11-04T16:03:41+00:00",
-   "cat": "iran"
-  },
-  {
-   "title": "המתיחות בגבול לבנון: צה\"ל במסר חד לאיראן וחיזבאללה",
-   "link": "https://www.maariv.co.il/news/military/article-1384903",
-   "source": "מעריב",
-   "ts": "2026-11-04T15:39:32+00:00",
-   "cat": "leb"
-  },
-  {
-   "title": "צה\"ל חיסל בכיר בחמאס שהחזיק בשבי את עומר שם טוב",
-   "link": "https://www.maariv.co.il/breaking-news/article-1384906",
-   "source": "מעריב מבזקים",
-   "ts": "2026-11-04T15:37:22+00:00",
-   "cat": "gaza"
-  },
-  {
-   "title": "\"כולם צריכים להתיישר בסופו של דבר עם ההחלטה של ראש השירות\": עמית אסא על זיני",
-   "link": "https://www.maariv.co.il/news/politics/article-1384848",
-   "source": "מעריב",
-   "ts": "2026-11-04T13:53:20+00:00",
-   "cat": "intel"
-  },
-  {
-   "title": "לראשונה זה שבועות: צה\"ל תקף חשודים שהתקרבו לכוחות בלבנון",
-   "link": "https://www.ynet.co.il/news/article/rjzg8n006fe",
-   "source": "ynet",
-   "ts": "2026-11-04T13:47:43+00:00",
-   "cat": "leb"
-  },
-  {
-   "title": "בצל המתיחות עם איראן: צה״ל חיסל שני מחבלי חיזבאללה בדרום לבנון",
-   "link": "https://www.maariv.co.il/breaking-news/article-1384845",
-   "source": "מעריב מבזקים",
-   "ts": "2026-11-04T13:44:28+00:00",
-   "cat": "leb"
-  },
-  {
-   "title": "במהלך השבוע: צה\"ל ושב\"כ חיסלו שישה מחבלים מארגוני טרור ברצועת עזה",
-   "link": "https://www.maariv.co.il/breaking-news/article-1384788",
-   "source": "מעריב מבזקים",
-   "ts": "2026-11-04T11:36:39+00:00",
-   "cat": "gaza"
   }
  ]
 }
