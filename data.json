@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-16T03:45:28.303870+00:00",
+ "updated": "2026-11-16T05:14:41.756491+00:00",
  "items": [
+  {
+   "title": "בכיר המוסד מודה אחרי התחקיר על רון ארד: \"תיאוריית החטיפה לאיראן נולדה בחטא\"",
+   "link": "https://www.ynet.co.il/news/article/s1q6q00vrzx",
+   "source": "ynet",
+   "ts": "2026-11-16T05:10:27+00:00",
+   "cat": "intel"
+  },
+  {
+   "title": "ישראל נערכת לרגע האמת מול איראן: \"עניין של ימים\"",
+   "link": "https://www.maariv.co.il/news/military/article-1388772",
+   "source": "מעריב",
+   "ts": "2026-11-16T04:00:43+00:00",
+   "cat": "iran"
+  },
   {
    "title": "כשהעיניים על איראן: חמאס משקם את המנהרות - וחוזר לבתי החולים",
    "link": "https://www.ynet.co.il/news/article/yokra14959434",
@@ -2785,20 +2799,6 @@
    "link": "https://www.maariv.co.il/breaking-news/article-1384602",
    "source": "מעריב מבזקים",
    "ts": "2026-11-03T23:58:11+00:00",
-   "cat": "iran"
-  },
-  {
-   "title": "ללא ראיות: מתקפת היועמ\"שית על זיני - והקרב על הבחירות",
-   "link": "https://www.walla.co.il/news/politics/383960006",
-   "source": "וואלה",
-   "ts": "2026-11-03T22:00:00+00:00",
-   "cat": "intel"
-  },
-  {
-   "title": "בעיצומם של ימים דרמטיים בישראל: \"צבא ארה\"ב ערוך למתקפה באיראן ממחר\"",
-   "link": "https://www.ynet.co.il/news/article/r1csw2v6ze",
-   "source": "ynet",
-   "ts": "2026-11-03T21:04:28+00:00",
    "cat": "iran"
   }
  ]
