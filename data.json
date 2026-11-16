@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-16T21:27:48.990111+00:00",
+ "updated": "2026-11-16T22:18:35.323378+00:00",
  "items": [
+  {
+   "title": "המלכוד מול איראן: החשש מהסכם אמריקני והתרחישים שעל הפרק",
+   "link": "https://www.walla.co.il/news/military/383961586",
+   "source": "וואלה",
+   "ts": "2026-11-16T21:00:00+00:00",
+   "cat": "iran"
+  },
   {
    "title": "התעלם מסוגיית ממשלת המעבר: הקבינט דן בתקיפה באיראן, ובהתנגדות ארה\"ב",
    "link": "https://www.ynet.co.il/news/article/rju44tdrml",
@@ -2792,13 +2799,6 @@
    "link": "https://www.ynet.co.il/news/article/syu0011ff6ze",
    "source": "ynet",
    "ts": "2026-11-04T20:37:40+00:00",
-   "cat": "intel"
-  },
-  {
-   "title": "על רקע ההמלצות אצל הנשיא: הרצוג התערב - זיני ומיארה נפגשו",
-   "link": "https://www.maariv.co.il/breaking-news/article-1385009",
-   "source": "מעריב מבזקים",
-   "ts": "2026-11-04T19:55:45+00:00",
    "cat": "intel"
   }
  ]
