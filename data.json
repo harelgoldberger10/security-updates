@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-17T18:40:37.482089+00:00",
+ "updated": "2026-11-17T19:45:28.208193+00:00",
  "items": [
+  {
+   "title": "ההודעה של זיני לא תנקה את הכתם מהשב\"כ",
+   "link": "https://www.ynet.co.il/news/article/b1cbqxcrge",
+   "source": "ynet",
+   "ts": "2026-11-17T19:35:10+00:00",
+   "cat": "intel"
+  },
   {
    "title": "המוסד העביר ליוון מידע שהוביל למעצר החוליה האיראנית: \"החשבון פתוח\"",
    "link": "https://www.ynet.co.il/news/article/rkghwzqagx",
@@ -2792,13 +2799,6 @@
    "link": "https://www.maariv.co.il/news/opinions/article-1385449",
    "source": "מעריב",
    "ts": "2026-11-06T04:00:44+00:00",
-   "cat": "iran"
-  },
-  {
-   "title": "איראן עוד על הפרק: צה\"ל ממתין לראות לאן נושבת הרוח בוושינגטון",
-   "link": "https://www.ynet.co.il/news/article/yokra14950309",
-   "source": "ynet",
-   "ts": "2026-11-06T01:08:02+00:00",
    "cat": "iran"
   }
  ]
