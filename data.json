@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-17T12:31:38.697847+00:00",
+ "updated": "2026-11-17T13:52:26.450493+00:00",
  "items": [
+  {
+   "title": "דיווח באיראן: תקיפות אמריקאיות באי קשם",
+   "link": "https://www.maariv.co.il/breaking-news/article-1389465",
+   "source": "מעריב מבזקים",
+   "ts": "2026-11-17T13:27:07+00:00",
+   "cat": "iran"
+  },
+  {
+   "title": "סוכל \"פיגוע איראני\" ביוון, טראמפ לא שלל תרחיש \"פצצה מלוכלכת\" נגד DC: \"הם מטורפים\"",
+   "link": "https://www.ynet.co.il/news/article/rj5l0ik0fe",
+   "source": "ynet",
+   "ts": "2026-11-17T13:04:28+00:00",
+   "cat": "iran"
+  },
   {
    "title": "בצה\"ל מזהירים: תקיפה באיראן עלולה לפתוח חזית נוספת",
    "link": "https://www.maariv.co.il/news/military/article-1389409",
@@ -2785,20 +2799,6 @@
    "link": "https://www.maariv.co.il/breaking-news/article-1385367",
    "source": "מעריב מבזקים",
    "ts": "2026-11-05T14:37:46+00:00",
-   "cat": "iran"
-  },
-  {
-   "title": "\"זוהי קפיצת מדרגה משמעותית\": הנשק החדש של צה\"ל בלבנון",
-   "link": "https://www.maariv.co.il/news/military/article-1385356",
-   "source": "מעריב",
-   "ts": "2026-11-05T14:20:57+00:00",
-   "cat": "leb"
-  },
-  {
-   "title": "איך הפכה המלחמה באיראן - למפלה של המפלגה הרפבוליקנית",
-   "link": "https://www.walla.co.il/news/world/383960157",
-   "source": "וואלה",
-   "ts": "2026-11-05T13:00:00+00:00",
    "cat": "iran"
   }
  ]
