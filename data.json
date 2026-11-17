@@ -1,6 +1,41 @@
 {
- "updated": "2026-11-17T14:45:34.992436+00:00",
+ "updated": "2026-11-17T15:40:15.647715+00:00",
  "items": [
+  {
+   "title": "הקומבינה הדיפלומטית של ישראל: מעבר ארז ייפתח - אבל לא לעזה",
+   "link": "https://www.maariv.co.il/news/military/article-1389533",
+   "source": "מעריב",
+   "ts": "2026-11-17T15:37:39+00:00",
+   "cat": "gaza"
+  },
+  {
+   "title": "ישראל נגד צרפת: הקרב על החלל שמותיר יוניפי\"ל בלבנון - והאפשרויות שנבחנות",
+   "link": "https://www.ynet.co.il/news/article/sy1xr1qrzx",
+   "source": "ynet",
+   "ts": "2026-11-17T15:26:06+00:00",
+   "cat": "leb"
+  },
+  {
+   "title": "מסתערבי מג\"ב עצרו שני פעילי חמאס בכפרים ביהודה ושומרון",
+   "link": "https://www.maariv.co.il/breaking-news/article-1389524",
+   "source": "מעריב מבזקים",
+   "ts": "2026-11-17T15:17:16+00:00",
+   "cat": "gaza"
+  },
+  {
+   "title": "חשד למעורבות המודיעין האיראני: סוכלה מזימת חיסול של בכיר ישראלי ביוון",
+   "link": "https://www.maariv.co.il/news/world/article-1389523",
+   "source": "מעריב",
+   "ts": "2026-11-17T15:15:30+00:00",
+   "cat": "iran"
+  },
+  {
+   "title": "התקיפה באיראן: קרע בצמרת הביטחונית - למעריב נודע מה קרה בחדר הסגור",
+   "link": "https://www.maariv.co.il/breaking-news/article-1389515",
+   "source": "מעריב מבזקים",
+   "ts": "2026-11-17T14:57:59+00:00",
+   "cat": "iran"
+  },
   {
    "title": "דיווח באיראן: תקיפות אמריקאיות באי קשם",
    "link": "https://www.maariv.co.il/breaking-news/article-1389465",
@@ -2764,41 +2799,6 @@
    "link": "https://www.walla.co.il/news/world/383960268",
    "source": "וואלה",
    "ts": "2026-11-05T17:11:58+00:00",
-   "cat": "iran"
-  },
-  {
-   "title": "הכותרות בטהרן חגגו, ואנס הצטרף: איך הרפובליקנים נפלו למלכודת | סא\"ל במיל' עמית יגור",
-   "link": "https://www.maariv.co.il/news/opinions/article-1385407",
-   "source": "מעריב",
-   "ts": "2026-11-05T16:15:00+00:00",
-   "cat": "iran"
-  },
-  {
-   "title": "המומחה הישראלי לניהול משברים: כדי להוכיח שהוא מנהיג דגול - הצעד שטראמפ מתכנן באיראן",
-   "link": "https://www.maariv.co.il/news/military/article-1385391",
-   "source": "מעריב",
-   "ts": "2026-11-05T15:44:07+00:00",
-   "cat": "iran"
-  },
-  {
-   "title": "פוטין נפגש עם הבכיר האיראני - ואז הגיעה האזהרה ממוסקבה",
-   "link": "https://www.maariv.co.il/news/world/article-1385380",
-   "source": "מעריב",
-   "ts": "2026-11-05T15:28:45+00:00",
-   "cat": "iran"
-  },
-  {
-   "title": "משרד החוץ הרוסי הוציא הוראה לאזרחיו להימנע מנסיעות לאיראן על רקע \"סיכון של סבב הסלמה נוסף\"",
-   "link": "https://www.maariv.co.il/breaking-news/article-1385376",
-   "source": "מעריב מבזקים",
-   "ts": "2026-11-05T15:00:47+00:00",
-   "cat": "iran"
-  },
-  {
-   "title": "מה מבשל פוטין עם האיראנים?",
-   "link": "https://www.walla.co.il/news/world/383960249",
-   "source": "וואלה",
-   "ts": "2026-11-05T14:47:46+00:00",
    "cat": "iran"
   }
  ]
