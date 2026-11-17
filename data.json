@@ -1,12 +1,26 @@
 {
- "updated": "2026-11-17T08:55:30.054370+00:00",
+ "updated": "2026-11-17T09:53:00.974679+00:00",
  "items": [
+  {
+   "title": "האזהרה החריגה הופעלה במדינה במפרץ - ואז הגיעה הנקמה האיראנית",
+   "link": "https://www.maariv.co.il/news/world/article-1389356",
+   "source": "מעריב",
+   "ts": "2026-11-17T09:04:27+00:00",
+   "cat": "iran"
+  },
   {
    "title": "ראש השב\"כ דיבר עם נציג הליכוד וביקש חומרים על זיופים בבחירות",
    "link": "https://www.ynet.co.il/news/article/bkyotfyrml",
    "source": "ynet",
    "ts": "2026-11-17T08:48:30+00:00",
    "cat": "intel"
+  },
+  {
+   "title": "32 חודשים לא מספיקים: שלוש הדרישות של הרמטכ\"ל מהממשלה הבאה",
+   "link": "https://www.maariv.co.il/news/military/article-1389327",
+   "source": "מעריב",
+   "ts": "2026-11-17T07:41:33+00:00",
+   "cat": "idf"
   },
   {
    "title": "המשוואה החדשה של איראן: תקפו מתקן אמריקני בגלל \"הפרת המרחב האווירי\"",
@@ -2785,20 +2799,6 @@
    "link": "https://www.maariv.co.il/breaking-news/article-1385272",
    "source": "מעריב מבזקים",
    "ts": "2026-11-05T11:16:31+00:00",
-   "cat": "gaza"
-  },
-  {
-   "title": "\"חמאס הוא ארגון צדקה\": התגובה החריפה של מנסור עבאס",
-   "link": "https://www.maariv.co.il/news/politics/article-1385244",
-   "source": "מעריב",
-   "ts": "2026-11-05T10:36:59+00:00",
-   "cat": "gaza"
-  },
-  {
-   "title": "רע\"מ המליצה על איזנקוט, עבאס: \"עליו להקים ממשלת בזק. חמאס? צריך להתפרק מנשקו\"",
-   "link": "https://www.ynet.co.il/news/article/hj00k0yf6gg",
-   "source": "ynet",
-   "ts": "2026-11-05T10:28:08+00:00",
    "cat": "gaza"
   }
  ]
