@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-17T19:45:28.208193+00:00",
+ "updated": "2026-11-17T20:37:29.715166+00:00",
  "items": [
+  {
+   "title": "הוועדה שתדון בביטול אזרחות למחבלים: גדעון סער מינה יו\"ר חדש",
+   "link": "https://www.maariv.co.il/breaking-news/article-1389630",
+   "source": "מעריב מבזקים",
+   "ts": "2026-11-17T20:07:22+00:00",
+   "cat": "gov"
+  },
+  {
+   "title": "דיווח: חקירת זיני סיכנה מקורות מודיעיניים של שב\"כ - ומה אמר המפכ\"ל לשוטרים?",
+   "link": "https://www.ynet.co.il/news/article/rkzltmqcgx",
+   "source": "ynet",
+   "ts": "2026-11-17T19:49:42+00:00",
+   "cat": "intel"
+  },
   {
    "title": "ההודעה של זיני לא תנקה את הכתם מהשב\"כ",
    "link": "https://www.ynet.co.il/news/article/b1cbqxcrge",
@@ -2785,20 +2799,6 @@
    "link": "https://www.maariv.co.il/breaking-news/article-1385534",
    "source": "מעריב מבזקים",
    "ts": "2026-11-06T06:03:47+00:00",
-   "cat": "iran"
-  },
-  {
-   "title": "השרה שקיבלה מימון מארגון הקשור לאחים המוסלמים - ומקדמת קליטת פליטים מעזה | דוד בן בסט",
-   "link": "https://www.maariv.co.il/news/opinions/article-1385467",
-   "source": "מעריב",
-   "ts": "2026-11-06T04:25:27+00:00",
-   "cat": "gaza"
-  },
-  {
-   "title": "הטעות הגדולה של טראמפ ונתניהו באיראן – והמהלך שעשוי לשנות את התמונה | אבי אשכנזי",
-   "link": "https://www.maariv.co.il/news/opinions/article-1385449",
-   "source": "מעריב",
-   "ts": "2026-11-06T04:00:44+00:00",
    "cat": "iran"
   }
  ]
