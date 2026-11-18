@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-18T10:15:36.306630+00:00",
+ "updated": "2026-11-18T11:23:31.324407+00:00",
  "items": [
+  {
+   "title": "אחרי איזנקוט: גם נפתלי בנט מקבל תדריך ביטחוני מנתניהו",
+   "link": "https://www.maariv.co.il/breaking-news/article-1389805",
+   "source": "מעריב מבזקים",
+   "ts": "2026-11-18T10:23:43+00:00",
+   "cat": "gov"
+  },
   {
    "title": "חשוד נעצר במעורבות בפיגוע סמוך ליריחו: נחקר בידי המשטרה והשב\"כ",
    "link": "https://www.maariv.co.il/breaking-news/article-1389767",
@@ -2792,13 +2799,6 @@
    "link": "https://www.maariv.co.il/breaking-news/article-1385607",
    "source": "מעריב מבזקים",
    "ts": "2026-11-06T09:51:05+00:00",
-   "cat": "intel"
-  },
-  {
-   "title": "בקול תוהה - המתקפה החריפה של סגן ראש השב\"כ לשעבר: \"כמו לעשות ניתוח מוח עם גרזן\"",
-   "link": "https://www.maariv.co.il/news/politics/article-1385596",
-   "source": "מעריב",
-   "ts": "2026-11-06T09:13:12+00:00",
    "cat": "intel"
   }
  ]
