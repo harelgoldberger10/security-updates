@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-18T08:03:23.419555+00:00",
+ "updated": "2026-11-18T09:11:17.690935+00:00",
  "items": [
+  {
+   "title": "חשוד נעצר במעורבות בפיגוע סמוך ליריחו: נחקר בידי המשטרה והשב\"כ",
+   "link": "https://www.maariv.co.il/breaking-news/article-1389767",
+   "source": "מעריב מבזקים",
+   "ts": "2026-11-18T08:51:40+00:00",
+   "cat": "intel"
+  },
+  {
+   "title": "תושבי עוטף עזה נדהמו מהתוכנית של המדינה: \"לא נסכים\"",
+   "link": "https://www.maariv.co.il/news/israel/article-1389743",
+   "source": "מעריב",
+   "ts": "2026-11-18T08:17:21+00:00",
+   "cat": "gaza"
+  },
   {
    "title": "צה\"ל השמיד מנהרת חיזבאללה בהר דב; בתוכה אותרו חדרי פיקוד ושהייה",
    "link": "https://www.maariv.co.il/breaking-news/article-1389735",
@@ -2785,20 +2799,6 @@
    "link": "https://www.maariv.co.il/news/politics/article-1385596",
    "source": "מעריב",
    "ts": "2026-11-06T09:13:12+00:00",
-   "cat": "intel"
-  },
-  {
-   "title": "טראמפ ג'וניור: \"המלחמה באיראן אחראית להפסד. זו לא תהיה מלחמת נצח\"",
-   "link": "https://www.ynet.co.il/news/article/syessli6fe",
-   "source": "ynet",
-   "ts": "2026-11-06T07:56:41+00:00",
-   "cat": "iran"
-  },
-  {
-   "title": "תלונה נגד רע”מ הוגשה לדוד זיני: \"אפליקציה למעקב אחר מצביעים בקלפיות\"",
-   "link": "https://www.maariv.co.il/breaking-news/article-1385572",
-   "source": "מעריב מבזקים",
-   "ts": "2026-11-06T07:53:34+00:00",
    "cat": "intel"
   }
  ]
