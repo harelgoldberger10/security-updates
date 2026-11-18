@@ -1,6 +1,27 @@
 {
- "updated": "2026-11-18T15:36:48.864775+00:00",
+ "updated": "2026-11-18T16:41:28.257428+00:00",
  "items": [
+  {
+   "title": "\"קידם תקיפות משותפות נגד איראן\": הפרטים מביקור ראש המוסד בארה\"ב",
+   "link": "https://www.ynet.co.il/news/article/bypiihi0zl",
+   "source": "ynet",
+   "ts": "2026-11-18T16:36:36+00:00",
+   "cat": "intel"
+  },
+  {
+   "title": "הפגישה המתוחה בגוש השינוי: ההתחממות מול איראן שעלולה לטרפד את הקמת הממשלה | פרסום ראשון",
+   "link": "https://www.maariv.co.il/news/politics/article-1389944",
+   "source": "מעריב",
+   "ts": "2026-11-18T16:09:57+00:00",
+   "cat": "iran"
+  },
+  {
+   "title": "היסטוריה בקפיטול: ג'פריס נבחר, ועשוי להיות המפתח למועצת השלום בעזה",
+   "link": "https://www.ynet.co.il/news/article/hjbbybo0fe",
+   "source": "ynet",
+   "ts": "2026-11-18T16:01:37+00:00",
+   "cat": "gaza"
+  },
   {
    "title": "צה\"ל ושב\"כ חיסלו שני מפקדי מחלקה בחמאס בתקיפות ברצועת עזה",
    "link": "https://www.maariv.co.il/breaking-news/article-1389925",
@@ -2778,27 +2799,6 @@
    "link": "https://www.ynet.co.il/news/article/hyhzpaitmg",
    "source": "ynet",
    "ts": "2026-11-06T22:04:13+00:00",
-   "cat": "iran"
-  },
-  {
-   "title": "טראמפ לכתבים על איראן: \"אנחנו מדברים איתם, ומצליחים מאוד\"",
-   "link": "https://www.maariv.co.il/breaking-news/article-1385712",
-   "source": "מעריב מבזקים",
-   "ts": "2026-11-06T20:02:41+00:00",
-   "cat": "iran"
-  },
-  {
-   "title": "טראמפ: \"ישראל והמזרח התיכון לא היו קיימים אם לא הייתי עוצר את איראן\"",
-   "link": "https://www.maariv.co.il/breaking-news/article-1385696",
-   "source": "מעריב מבזקים",
-   "ts": "2026-11-06T18:50:56+00:00",
-   "cat": "iran"
-  },
-  {
-   "title": "רגע לפני הבחירות: התוכנית של נתניהו באיראן שנבלמה ברגע האחרון",
-   "link": "https://www.maariv.co.il/news/military/article-1385692",
-   "source": "מעריב",
-   "ts": "2026-11-06T18:37:30+00:00",
    "cat": "iran"
   }
  ]
