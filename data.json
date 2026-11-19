@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-19T15:36:29.913468+00:00",
+ "updated": "2026-11-19T16:41:38.576382+00:00",
  "items": [
+  {
+   "title": "האיום הכימי והביולוגי לא מחייב בינתיים תקיפה באיראן",
+   "link": "https://www.ynet.co.il/news/article/byhi6p2rgl",
+   "source": "ynet",
+   "ts": "2026-11-19T16:09:55+00:00",
+   "cat": "iran"
+  },
   {
    "title": "חיל הים נערך למלחמה באיראן: תזוזת הכוחות כבר יצאה לדרך",
    "link": "https://www.maariv.co.il/news/military/article-1390305",
@@ -16,11 +23,25 @@
    "cat": "iran"
   },
   {
+   "title": "“אלוהים, זו טהרן”: טייסי ה-B-2 חושפים את רגעי התקיפה באיראן",
+   "link": "https://www.walla.co.il/news/military/383962243",
+   "source": "וואלה",
+   "ts": "2026-11-19T14:50:00+00:00",
+   "cat": "iran"
+  },
+  {
    "title": "בישראל מעריכים שכך תפתח המלחמה עם איראן: \"משום מקום\"",
    "link": "https://www.maariv.co.il/breaking-news/article-1390293",
    "source": "מעריב מבזקים",
    "ts": "2026-11-19T14:49:09+00:00",
    "cat": "iran"
+  },
+  {
+   "title": "הממשלה בעיראק בצעד חסר תקדים נגד חיזבאללה",
+   "link": "https://www.walla.co.il/news/politics/383962242",
+   "source": "וואלה",
+   "ts": "2026-11-19T14:44:34+00:00",
+   "cat": "leb"
   },
   {
    "title": "את האזעקה לא נשמע: הציבור יגלה על תקיפה באיראן בדרך אחרת",
@@ -2778,27 +2799,6 @@
    "link": "https://www.maariv.co.il/news/law/article-1386095",
    "source": "מעריב",
    "ts": "2026-11-08T08:46:10+00:00",
-   "cat": "iran"
-  },
-  {
-   "title": "אחרי השיטפונות: בצה\"ל דוחים את טענות חמאס על עזה",
-   "link": "https://www.walla.co.il/news/military/383960489",
-   "source": "וואלה",
-   "ts": "2026-11-08T08:23:52+00:00",
-   "cat": "gaza"
-  },
-  {
-   "title": "מלכודת הר המכוש: איל חולתא מזהיר - האיראנים \"יתבצרו וישלימו את העבודה\"",
-   "link": "https://www.maariv.co.il/breaking-news/article-1386076",
-   "source": "מעריב מבזקים",
-   "ts": "2026-11-08T07:58:30+00:00",
-   "cat": "iran"
-  },
-  {
-   "title": "דני דנון לנציג איראן באו\"ם: \"תשב בשקט עם הראש למטה - אתם פחדנים\"",
-   "link": "https://www.maariv.co.il/breaking-news/article-1386026",
-   "source": "מעריב מבזקים",
-   "ts": "2026-11-08T06:13:53+00:00",
    "cat": "iran"
   }
  ]
