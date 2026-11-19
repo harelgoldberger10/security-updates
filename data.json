@@ -1,6 +1,34 @@
 {
- "updated": "2026-11-19T03:34:52.760432+00:00",
+ "updated": "2026-11-19T04:40:06.217595+00:00",
  "items": [
+  {
+   "title": "מתקפה של 7 ימים באיראן: הלחץ של נתניהו - והחשש של טראמפ",
+   "link": "https://www.maariv.co.il/news/world/article-1390033",
+   "source": "מעריב",
+   "ts": "2026-11-19T04:34:00+00:00",
+   "cat": "iran"
+  },
+  {
+   "title": "שלוש פגישות קריטיות בשנג’ן - ובמוקד, עתיד המלחמה באיראן",
+   "link": "https://www.walla.co.il/news/world/383962064",
+   "source": "וואלה",
+   "ts": "2026-11-19T04:13:22+00:00",
+   "cat": "iran"
+  },
+  {
+   "title": "התקלה ב-NSA פגעה גם בפעילות המודיעין האמריקני מול איראן",
+   "link": "https://www.walla.co.il/news/world/383962063",
+   "source": "וואלה",
+   "ts": "2026-11-19T04:03:19+00:00",
+   "cat": "iran"
+  },
+  {
+   "title": "צרפת תציג תוכנית לכוח בינלאומי חדש בלבנון",
+   "link": "https://www.walla.co.il/news/world/383962062",
+   "source": "וואלה",
+   "ts": "2026-11-19T04:02:53+00:00",
+   "cat": "leb"
+  },
   {
    "title": "נתניהו לוחץ על טראמפ לצאת למתקפה באיראן; הנשיא טרם החליט",
    "link": "https://www.walla.co.il/news/world/383962073",
@@ -2771,34 +2799,6 @@
    "link": "https://www.maariv.co.il/breaking-news/article-1385839",
    "source": "מעריב מבזקים",
    "ts": "2026-11-07T13:59:53+00:00",
-   "cat": "iran"
-  },
-  {
-   "title": "התקדמות במו\"מ? המבצע החדש ל\"הרחבת המצור\" על איראן",
-   "link": "https://www.ynet.co.il/news/article/rkgxuo3azl",
-   "source": "ynet",
-   "ts": "2026-11-07T13:38:11+00:00",
-   "cat": "iran"
-  },
-  {
-   "title": "בלי להוציא את האורניום מאיראן: עסקת המילארדים שקטאר מנסה לקדם",
-   "link": "https://www.maariv.co.il/news/world/article-1385833",
-   "source": "מעריב",
-   "ts": "2026-11-07T13:37:43+00:00",
-   "cat": "iran"
-  },
-  {
-   "title": "הגשמים הציפו את ערי האוהלים בעזה: \"יום קשה. אנשים איבדו את כל מה שהיה להם\"",
-   "link": "https://www.ynet.co.il/news/article/bytayo36fg",
-   "source": "ynet",
-   "ts": "2026-11-07T13:05:14+00:00",
-   "cat": "gaza"
-  },
-  {
-   "title": "איראן טוענת: מטוס אמריקאי נפגע במהלך התקיפות באי קשם",
-   "link": "https://www.maariv.co.il/breaking-news/article-1385826",
-   "source": "מעריב מבזקים",
-   "ts": "2026-11-07T12:40:01+00:00",
    "cat": "iran"
   }
  ]
