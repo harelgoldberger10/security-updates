@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-20T20:06:15.322094+00:00",
+ "updated": "2026-11-20T20:57:06.445168+00:00",
  "items": [
+  {
+   "title": "בזמן פגישה: צה\"ל תקף מספר מחבלים מהזרוע הצבאית של חמאס",
+   "link": "https://www.maariv.co.il/breaking-news/article-1390593",
+   "source": "מעריב מבזקים",
+   "ts": "2026-11-20T20:19:59+00:00",
+   "cat": "gaza"
+  },
   {
    "title": "הפצצה המלוכלכת, המגעים והנפט: דונלד טראמפ מדבר על איראן",
    "link": "https://www.maariv.co.il/news/military/article-1390582",
@@ -2792,13 +2799,6 @@
    "link": "https://www.ynet.co.il/news/article/yokra14953707",
    "source": "ynet",
    "ts": "2026-11-09T22:05:00+00:00",
-   "cat": "iran"
-  },
-  {
-   "title": "טראמפ על חידוש המלחמה באיראן: \"בשלב זה נראה שהאפשרות הזאת אינה סבירה במיוחד\"",
-   "link": "https://www.maariv.co.il/breaking-news/article-1386802",
-   "source": "מעריב מבזקים",
-   "ts": "2026-11-09T22:00:04+00:00",
    "cat": "iran"
   }
  ]
