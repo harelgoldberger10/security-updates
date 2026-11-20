@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-20T15:01:31.039076+00:00",
+ "updated": "2026-11-20T16:02:02.449992+00:00",
  "items": [
+  {
+   "title": "למען נתניהו, גופמן מרסק את אמינותו של המוסד",
+   "link": "https://www.ynet.co.il/news/article/sylbzjacfx",
+   "source": "ynet",
+   "ts": "2026-11-20T15:12:04+00:00",
+   "cat": "intel"
+  },
+  {
+   "title": "יומיים עד ארבעה ימים: לוח הזמנים האפשרי לתקיפה באיראן",
+   "link": "https://www.maariv.co.il/news/military/article-1390543",
+   "source": "מעריב",
+   "ts": "2026-11-20T14:53:57+00:00",
+   "cat": "iran"
+  },
   {
    "title": "\"מוכנות מלאה לתרחישים שונים - גלו אחריות\": ברקע המתיחות מול איראן - דובר צה\"ל בהודעה חריגה לציבור",
    "link": "https://www.maariv.co.il/breaking-news/article-1390535",
@@ -2785,20 +2799,6 @@
    "link": "https://www.maariv.co.il/news/world/article-1386727",
    "source": "מעריב",
    "ts": "2026-11-09T17:21:39+00:00",
-   "cat": "iran"
-  },
-  {
-   "title": "הרמטכ\"ל באליפות צה\"ל למפקדים: \"העקשן, המתמיד והכשיר הוא זה שמנצח בקרב\"",
-   "link": "https://www.maariv.co.il/breaking-news/article-1386721",
-   "source": "מעריב מבזקים",
-   "ts": "2026-11-09T16:41:51+00:00",
-   "cat": "idf"
-  },
-  {
-   "title": "צרפת: איראן ביצעה את מתקפת \"המקררים הלוהטים\" נגד סופרמרקטים בשטחנו",
-   "link": "https://www.ynet.co.il/news/article/sy011bokcge",
-   "source": "ynet",
-   "ts": "2026-11-09T16:39:10+00:00",
    "cat": "iran"
   }
  ]
