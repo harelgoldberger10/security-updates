@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-20T16:02:02.449992+00:00",
+ "updated": "2026-11-20T17:04:06.795327+00:00",
  "items": [
+  {
+   "title": "דיווח באיראן: טיל פגע באי קשם",
+   "link": "https://www.maariv.co.il/breaking-news/article-1390552",
+   "source": "מעריב מבזקים",
+   "ts": "2026-11-20T16:10:55+00:00",
+   "cat": "iran"
+  },
   {
    "title": "למען נתניהו, גופמן מרסק את אמינותו של המוסד",
    "link": "https://www.ynet.co.il/news/article/sylbzjacfx",
@@ -2792,13 +2799,6 @@
    "link": "https://www.maariv.co.il/breaking-news/article-1386756",
    "source": "מעריב מבזקים",
    "ts": "2026-11-09T18:32:36+00:00",
-   "cat": "iran"
-  },
-  {
-   "title": "\"איראן תישא בהשלכות\": האזהרה החריפה של צרפת למשמרות המהפכה",
-   "link": "https://www.maariv.co.il/news/world/article-1386727",
-   "source": "מעריב",
-   "ts": "2026-11-09T17:21:39+00:00",
    "cat": "iran"
   }
  ]
