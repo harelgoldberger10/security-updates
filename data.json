@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-20T11:43:22.244592+00:00",
+ "updated": "2026-11-20T12:46:36.432748+00:00",
  "items": [
+  {
+   "title": "המרדף לא עצר: צה\"ל ממשיך לסגור חשבון ברצועת עזה על טבח ה-7.10",
+   "link": "https://www.maariv.co.il/news/military/article-1390520",
+   "source": "מעריב",
+   "ts": "2026-11-20T12:43:07+00:00",
+   "cat": "gaza"
+  },
+  {
+   "title": "החיסולים בעזה: מפקדי נוח'בה בגא\"פ ובחמאס ומחבל שפשט לישראל ב-7 באוקטובר",
+   "link": "https://www.maariv.co.il/breaking-news/article-1390515",
+   "source": "מעריב מבזקים",
+   "ts": "2026-11-20T12:04:26+00:00",
+   "cat": "gaza"
+  },
   {
    "title": "המלחמה באיראן חשפה את נקודת התורפה של ישראל - עכשיו הגיעה התשובה",
    "link": "https://www.maariv.co.il/news/military/article-1390479",
@@ -2785,20 +2799,6 @@
    "link": "https://www.ynet.co.il/news/article/byu02rkrge",
    "source": "ynet",
    "ts": "2026-11-09T14:04:21+00:00",
-   "cat": "iran"
-  },
-  {
-   "title": "השב\"כ נכנס לתמונה: האיום האיראני שהגיע עד לתיבות הדואר בתל אביב",
-   "link": "https://www.maariv.co.il/news/law/article-1386653",
-   "source": "מעריב",
-   "ts": "2026-11-09T13:46:59+00:00",
-   "cat": "intel"
-  },
-  {
-   "title": "המסר של ארדואן לטראמפ: טורקיה מתנגדת למתקפה נוספת על איראן",
-   "link": "https://www.maariv.co.il/news/world/article-1386602",
-   "source": "מעריב",
-   "ts": "2026-11-09T11:27:16+00:00",
    "cat": "iran"
   }
  ]
