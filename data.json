@@ -1,6 +1,27 @@
 {
- "updated": "2026-11-21T07:04:05.847838+00:00",
+ "updated": "2026-11-21T08:17:38.863390+00:00",
  "items": [
+  {
+   "title": "מיכלית ששטה במצר הורמוז נפגעה מ\"טיל לא מזוהה\"",
+   "link": "https://www.maariv.co.il/breaking-news/article-1390653",
+   "source": "מעריב מבזקים",
+   "ts": "2026-11-21T08:05:19+00:00",
+   "cat": "iran"
+  },
+  {
+   "title": "הלחץ של נתניהו לתקוף באיראן והתרחיש השלישי של טראמפ: \"פתרון הגבינה השווייצרית\"",
+   "link": "https://www.maariv.co.il/news/world/article-1390610",
+   "source": "מעריב",
+   "ts": "2026-11-21T07:19:10+00:00",
+   "cat": "iran"
+  },
+  {
+   "title": "השמיים נפלו על איראן: המשטר בטהרן איבד שליטה באופן סופי",
+   "link": "https://www.maariv.co.il/breaking-news/article-1390645",
+   "source": "מעריב מבזקים",
+   "ts": "2026-11-21T07:12:52+00:00",
+   "cat": "iran"
+  },
   {
    "title": "משימת התאבדות בלב ים: האיום האיראני שעלול להצית מלחמה אזורית",
    "link": "https://www.maariv.co.il/news/world/article-1390626",
@@ -2779,27 +2800,6 @@
    "source": "ynet",
    "ts": "2026-11-10T10:19:34+00:00",
    "cat": "gov"
-  },
-  {
-   "title": "ההודעה המשונה של הליכוד: התפקיד החדש של גדעון סער בממשלה",
-   "link": "https://www.maariv.co.il/breaking-news/article-1386952",
-   "source": "מעריב מבזקים",
-   "ts": "2026-11-10T10:18:54+00:00",
-   "cat": "gov"
-  },
-  {
-   "title": "הנשיא ישב בחושך, איראן לאזרחים:  \"צריך לחסוך, המצור - מהחמורים שידענו\"",
-   "link": "https://www.ynet.co.il/news/article/hjfm8uxagl",
-   "source": "ynet",
-   "ts": "2026-11-10T10:15:13+00:00",
-   "cat": "iran"
-  },
-  {
-   "title": "\"עזה טובעת\": ההצפות ברצועה בכותרות בעולם, לחץ על ישראל",
-   "link": "https://www.ynet.co.il/news/article/hj11pnrlcge",
-   "source": "ynet",
-   "ts": "2026-11-10T09:07:22+00:00",
-   "cat": "gaza"
   }
  ]
 }
