@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-21T18:28:53.859270+00:00",
+ "updated": "2026-11-21T19:28:22.537915+00:00",
  "items": [
+  {
+   "title": "בחריין מדווחת: תקיפה איראנית גרמה לשריפה במתקן תעשייתי אזרחי",
+   "link": "https://www.maariv.co.il/breaking-news/article-1390817",
+   "source": "מעריב מבזקים",
+   "ts": "2026-11-21T19:26:59+00:00",
+   "cat": "iran"
+  },
   {
    "title": "איראן: פיצוץ נשמע בחוף הדרומי של המדינה; נסיבותיו אינן ברורות",
    "link": "https://www.maariv.co.il/breaking-news/article-1390784",
@@ -2792,13 +2799,6 @@
    "link": "https://www.ynet.co.il/news/article/ryfvbdb0fe",
    "source": "ynet",
    "ts": "2026-11-11T04:50:05+00:00",
-   "cat": "iran"
-  },
-  {
-   "title": "ההפתעה למלחמה הבאה באיראן: רפאל חושפת טיל שיוט משופר",
-   "link": "https://finance.walla.co.il/item/3875783",
-   "source": "וואלה",
-   "ts": "2026-11-11T04:00:00+00:00",
    "cat": "iran"
   }
  ]
