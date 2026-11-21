@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-21T16:24:42.191202+00:00",
+ "updated": "2026-11-21T17:11:35.171132+00:00",
  "items": [
+  {
+   "title": "אחרי שנטען שעובדי סיוע נהרגו בתקיפה בעזה - צה\"ל טוען: מדובר במחבלים",
+   "link": "https://www.maariv.co.il/breaking-news/article-1390762",
+   "source": "מעריב מבזקים",
+   "ts": "2026-11-21T16:56:38+00:00",
+   "cat": "gaza"
+  },
+  {
+   "title": "\"שימוש ציני\": הפלסטינים טענו שצה\"ל הרג עובדי סיוע בעזה, הארגון הבינ\"ל הכחיש",
+   "link": "https://www.ynet.co.il/news/article/syif5sjkxg",
+   "source": "ynet",
+   "ts": "2026-11-21T16:47:38+00:00",
+   "cat": "gaza"
+  },
   {
    "title": "רגע לפני תקיפה נוספת? טראמפ שולח מסר להנהגה האיראנית",
    "link": "https://www.maariv.co.il/news/world/article-1390733",
@@ -2786,20 +2800,6 @@
    "source": "ynet",
    "ts": "2026-11-10T21:42:52+00:00",
    "cat": "iran"
-  },
-  {
-   "title": "תעלומת רצח בביירות: חבר פרלמנט עיראקי שהתנגד לאיראן \"פותה לדירה\" ונמצא מת",
-   "link": "https://www.ynet.co.il/news/article/bymhybbafe",
-   "source": "ynet",
-   "ts": "2026-11-10T21:30:53+00:00",
-   "cat": "leb"
-  },
-  {
-   "title": "משרד רה\"מ למועצת השלום: \"חמאס לא מסר אפילו נשק אחד, בתוכנית 91 אלף אוהלים\"",
-   "link": "https://www.ynet.co.il/news/article/sjey9gbcme",
-   "source": "ynet",
-   "ts": "2026-11-10T21:06:06+00:00",
-   "cat": "gaza"
   }
  ]
 }
