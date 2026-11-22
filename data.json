@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-22T22:23:48.342999+00:00",
+ "updated": "2026-11-22T23:08:06.484932+00:00",
  "items": [
+  {
+   "title": "הקרב הגאה של לבנון",
+   "link": "https://www.ynet.co.il/news/article/yokra14966587",
+   "source": "ynet",
+   "ts": "2026-11-22T22:37:48+00:00",
+   "cat": "leb"
+  },
   {
    "title": "הביקור של קפטן אלה בבית ספר בדרום לבנון - והסרטון שעורר סערה",
    "link": "https://www.ynet.co.il/news/article/s1bxcal1qe",
@@ -2792,13 +2799,6 @@
    "link": "https://www.maariv.co.il/news/military/article-1387510",
    "source": "מעריב",
    "ts": "2026-11-11T18:44:19+00:00",
-   "cat": "gov"
-  },
-  {
-   "title": "אין יו\"ר אופוזיציה - ואביגדור ליברמן בדרך לממשק ביטחוני עם נתניהו",
-   "link": "https://www.maariv.co.il/news/politics/article-1387499",
-   "source": "מעריב",
-   "ts": "2026-11-11T18:13:53+00:00",
    "cat": "gov"
   }
  ]
