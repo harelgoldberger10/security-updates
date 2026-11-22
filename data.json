@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-22T07:51:12.162906+00:00",
+ "updated": "2026-11-22T08:38:18.216983+00:00",
  "items": [
+  {
+   "title": "תיירת מטורקיה נעצרה בהר הבית בחשד לתמיכה בחמאס וחלוקת כספים למתפללים",
+   "link": "https://www.maariv.co.il/breaking-news/article-1390917",
+   "source": "מעריב מבזקים",
+   "ts": "2026-11-22T07:51:45+00:00",
+   "cat": "gaza"
+  },
   {
    "title": "עובדי סיוע נהרגו בעזה? צה\"ל חושף את האמת על החיסולים ברצועה",
    "link": "https://www.maariv.co.il/breaking-news/article-1390911",
@@ -2792,13 +2799,6 @@
    "link": "https://www.maariv.co.il/news/world/article-1387242",
    "source": "מעריב",
    "ts": "2026-11-11T07:36:39+00:00",
-   "cat": "iran"
-  },
-  {
-   "title": "נשיא איראן קושר בין המלחמה לבחירות - ומכוון לישראל",
-   "link": "https://www.maariv.co.il/news/world/article-1387215",
-   "source": "מעריב",
-   "ts": "2026-11-11T06:11:16+00:00",
    "cat": "iran"
   }
  ]
