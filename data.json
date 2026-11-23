@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-23T22:29:20.887044+00:00",
+ "updated": "2026-11-23T23:29:45.878352+00:00",
  "items": [
+  {
+   "title": "דיווח בתקשורת הערבית: תקיפה ישראלית בדרום רצועת עזה",
+   "link": "https://www.maariv.co.il/breaking-news/article-1391616",
+   "source": "מעריב מבזקים",
+   "ts": "2026-11-23T23:28:10+00:00",
+   "cat": "gaza"
+  },
   {
    "title": "ארה\"ב הטילה סנקציות חדשות על איראן: \"נמשיך לנתק את מקורות המימון\"",
    "link": "https://www.maariv.co.il/breaking-news/article-1391613",
@@ -2792,13 +2799,6 @@
    "link": "https://www.ynet.co.il/news/article/skssnv7czg",
    "source": "ynet",
    "ts": "2026-11-12T13:19:21+00:00",
-   "cat": "iran"
-  },
-  {
-   "title": "\"טראמפ: 'אנחנו לא צריכים הסכם עם איראן'\"",
-   "link": "https://www.maariv.co.il/breaking-news/article-1387811",
-   "source": "מעריב מבזקים",
-   "ts": "2026-11-12T13:17:15+00:00",
    "cat": "iran"
   }
  ]
