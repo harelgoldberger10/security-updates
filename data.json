@@ -1,6 +1,41 @@
 {
- "updated": "2026-11-24T10:34:50.106203+00:00",
+ "updated": "2026-11-24T11:32:05.972923+00:00",
  "items": [
+  {
+   "title": "ראש השב\"כ הטרי של חמאס חוסל - אחרי שקודמו נחטף ועצור בישראל",
+   "link": "https://www.maariv.co.il/news/military/article-1391770",
+   "source": "מעריב",
+   "ts": "2026-11-24T11:28:21+00:00",
+   "cat": "intel"
+  },
+  {
+   "title": "דיווחים ברשתות הערביות: המחבל שחוסל בתקיפה בעזה - ראש שירות הביטחון ברצועה",
+   "link": "https://www.maariv.co.il/breaking-news/article-1391758",
+   "source": "מעריב מבזקים",
+   "ts": "2026-11-24T10:56:07+00:00",
+   "cat": "gaza"
+  },
+  {
+   "title": "צה\"ל הודיע שתקף בכיר בחמאס, הפלסטינים: זה המחבל שחוסל",
+   "link": "https://www.ynet.co.il/news/article/hjzui1xk7l",
+   "source": "ynet",
+   "ts": "2026-11-24T10:50:16+00:00",
+   "cat": "gaza"
+  },
+  {
+   "title": "צה\"ל ושב\"כ: תקפנו לפני זמן קצר ברצועה מחבל בכיר בחמאס",
+   "link": "https://www.maariv.co.il/breaking-news/article-1391750",
+   "source": "מעריב מבזקים",
+   "ts": "2026-11-24T10:42:16+00:00",
+   "cat": "gaza"
+  },
+  {
+   "title": "לא להיכנע, אלא לזרוע כאוס: ראש המל\"ל לשעבר חושף את התוכנית של איראן",
+   "link": "https://www.maariv.co.il/news/military/article-1391748",
+   "source": "מעריב",
+   "ts": "2026-11-24T10:40:29+00:00",
+   "cat": "iran"
+  },
   {
    "title": "זעם בשדרות על הקיצוץ בתקציב: \"לקצץ את חמאס, לא אותנו\"",
    "link": "https://sheva7.walla.co.il/item/3877451",
@@ -2765,41 +2800,6 @@
    "source": "וואלה",
    "ts": "2026-11-13T05:05:56+00:00",
    "cat": "iran"
-  },
-  {
-   "title": "הקרב על ועדת חוץ וביטחון - והזימון שממנו חושש נתניהו: \"למנוע מבצעים מיותרים\"",
-   "link": "https://www.ynet.co.il/news/article/yokra14957192",
-   "source": "ynet",
-   "ts": "2026-11-13T04:58:09+00:00",
-   "cat": "gov"
-  },
-  {
-   "title": "מזג האוויר טרף את הקלפים: התוכנית של חמאס שהשתבשה בדקה ה-90 | אבי אשכנזי",
-   "link": "https://www.maariv.co.il/news/opinions/article-1387945",
-   "source": "מעריב",
-   "ts": "2026-11-13T04:00:43+00:00",
-   "cat": "gaza"
-  },
-  {
-   "title": "הבוץ העזתי: החורף עושה שמות ברצועה, אבל חמאס רק מתחזק",
-   "link": "https://www.ynet.co.il/news/article/yokra14955936",
-   "source": "ynet",
-   "ts": "2026-11-12T22:00:00+00:00",
-   "cat": "gaza"
-  },
-  {
-   "title": "דיווח באיראן: העיר סריק הותקפה",
-   "link": "https://www.maariv.co.il/breaking-news/article-1387923",
-   "source": "מעריב מבזקים",
-   "ts": "2026-11-12T19:31:20+00:00",
-   "cat": "iran"
-  },
-  {
-   "title": "שבועות של כוננות, שני טילים וקומה אחת: מאחורי החיסול החולים נאצר בעזה",
-   "link": "https://www.maariv.co.il/news/military/article-1387917",
-   "source": "מעריב",
-   "ts": "2026-11-12T18:58:35+00:00",
-   "cat": "gaza"
   }
  ]
 }
