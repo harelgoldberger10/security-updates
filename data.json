@@ -1,11 +1,39 @@
 {
- "updated": "2026-11-24T17:00:00.911848+00:00",
+ "updated": "2026-11-24T17:53:15.086916+00:00",
  "items": [
+  {
+   "title": "מול הרחפנים המתקדמים של חיזבאללה: בצה\"ל שלפו רעיון בן 30 שנה",
+   "link": "https://www.maariv.co.il/breaking-news/article-1391915",
+   "source": "מעריב מבזקים",
+   "ts": "2026-11-24T17:34:05+00:00",
+   "cat": "leb"
+  },
+  {
+   "title": "חיזבאללה מצא את נקודת התורפה של ישראל - ואז הגיע הפתרון המפתיע",
+   "link": "https://www.maariv.co.il/news/military/article-1391890",
+   "source": "מעריב",
+   "ts": "2026-11-24T17:01:22+00:00",
+   "cat": "leb"
+  },
+  {
+   "title": "חיסול טראמפ ופיתוח נשק כימי: ישראל כ\"ץ בהצהרה חריגה על איראן",
+   "link": "https://www.maariv.co.il/news/military/article-1391899",
+   "source": "מעריב",
+   "ts": "2026-11-24T17:00:03+00:00",
+   "cat": "iran"
+  },
   {
    "title": "כ\"ץ: איראן מפתחת נשק כימי כ\"שובר שוויון\" מול ישראל, לא נאפשר לה",
    "link": "https://www.ynet.co.il/news/article/rkqtbfqy7l",
    "source": "ynet",
    "ts": "2026-11-24T16:59:27+00:00",
+   "cat": "iran"
+  },
+  {
+   "title": "כ\"ץ טוען: \"איראן כן מנסה לפתח נשק כימי\"",
+   "link": "https://www.walla.co.il/news/military/383962941",
+   "source": "וואלה",
+   "ts": "2026-11-24T16:57:05+00:00",
    "cat": "iran"
   },
   {
@@ -2772,34 +2800,6 @@
    "source": "וואלה",
    "ts": "2026-11-13T14:51:08+00:00",
    "cat": "intel"
-  },
-  {
-   "title": "בישראל נערכים לגרוע מכל מול איראן: \"בסוף הוא יתהפך\"",
-   "link": "https://www.maariv.co.il/breaking-news/article-1388081",
-   "source": "מעריב מבזקים",
-   "ts": "2026-11-13T14:13:01+00:00",
-   "cat": "iran"
-  },
-  {
-   "title": "דיווח: ראש המוסד נפגש עם בכירים בממשל טראמפ - ולוחץ לחדש את המלחמה באיראן",
-   "link": "https://www.ynet.co.il/news/article/rjmwtqeagx",
-   "source": "ynet",
-   "ts": "2026-11-13T14:11:24+00:00",
-   "cat": "intel"
-  },
-  {
-   "title": "שר האוצר האמריקני נגד איראן: “שמנהיגי המשטר ילכו לעזאזל\"",
-   "link": "https://www.walla.co.il/news/world/383961306",
-   "source": "וואלה",
-   "ts": "2026-11-13T13:34:46+00:00",
-   "cat": "iran"
-  },
-  {
-   "title": "שלושה שבועות חיכו לו: ההערכה החדשה על בכיר חמאס שהותקף",
-   "link": "https://www.maariv.co.il/news/military/article-1388059",
-   "source": "מעריב",
-   "ts": "2026-11-13T13:27:38+00:00",
-   "cat": "gaza"
   }
  ]
 }
