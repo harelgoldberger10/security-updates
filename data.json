@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-24T11:32:05.972923+00:00",
+ "updated": "2026-11-24T12:41:31.547478+00:00",
  "items": [
+  {
+   "title": "מחשש להסלמה בצפון: הפקודה החריגה של איראן למשמרות המהפכה - \"תברחו\"",
+   "link": "https://www.maariv.co.il/news/world/article-1391776",
+   "source": "מעריב",
+   "ts": "2026-11-24T11:37:24+00:00",
+   "cat": "iran"
+  },
+  {
+   "title": "פרסו שטיח פרסי בקמפוס: איראנית וישראלי במסע הסברה בארה\"ב",
+   "link": "https://www.ynet.co.il/news/article/ry7ftczkmx",
+   "source": "ynet",
+   "ts": "2026-11-24T11:29:46+00:00",
+   "cat": "iran"
+  },
   {
    "title": "ראש השב\"כ הטרי של חמאס חוסל - אחרי שקודמו נחטף ועצור בישראל",
    "link": "https://www.maariv.co.il/news/military/article-1391770",
@@ -20,6 +34,13 @@
    "link": "https://www.ynet.co.il/news/article/hjzui1xk7l",
    "source": "ynet",
    "ts": "2026-11-24T10:50:16+00:00",
+   "cat": "gaza"
+  },
+  {
+   "title": "בחמאס מאשרים: ראש מנגנון הביטחון הפנימי של עזה חוסל בתקיפה",
+   "link": "https://www.walla.co.il/news/military/383962879",
+   "source": "וואלה",
+   "ts": "2026-11-24T10:43:26+00:00",
    "cat": "gaza"
   },
   {
@@ -2779,27 +2800,6 @@
    "source": "מעריב מבזקים",
    "ts": "2026-11-13T07:42:56+00:00",
    "cat": "gaza"
-  },
-  {
-   "title": "טראמפ חושף מה עוצר את סיום המלחמה באיראן - ולא רק ישראל בתמונה",
-   "link": "https://www.maariv.co.il/news/world/article-1387989",
-   "source": "מעריב",
-   "ts": "2026-11-13T07:27:27+00:00",
-   "cat": "iran"
-  },
-  {
-   "title": "מטריד: מפה מקיפה של עוטף עזה נתפסה ביעד מפתיע במיוחד",
-   "link": "https://www.maariv.co.il/news/law/article-1387971",
-   "source": "מעריב",
-   "ts": "2026-11-13T06:17:23+00:00",
-   "cat": "gaza"
-  },
-  {
-   "title": "טראמפ: “יכולתי לחסל את התשתיות באיראן - סעודיה ביקשה להמתין״",
-   "link": "https://www.walla.co.il/news/world/383961264",
-   "source": "וואלה",
-   "ts": "2026-11-13T05:05:56+00:00",
-   "cat": "iran"
   }
  ]
 }
