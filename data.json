@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-25T21:02:35.664923+00:00",
+ "updated": "2026-11-25T22:02:50.821732+00:00",
  "items": [
+  {
+   "title": "דיווחים בעזה: 3 הרוגים בתקיפה בשכונת א-תופאח",
+   "link": "https://www.maariv.co.il/breaking-news/article-1392333",
+   "source": "מעריב מבזקים",
+   "ts": "2026-11-25T21:40:52+00:00",
+   "cat": "gaza"
+  },
   {
    "title": "קושנר דחק בנתניהו: \"תיישמו את חלקכם בתוכנית 20 הנקודות, סייעו לעזה בחורף\"",
    "link": "https://www.ynet.co.il/news/article/hkz51h4jme",
@@ -2792,13 +2799,6 @@
    "link": "https://www.maariv.co.il/news/military/article-1388397",
    "source": "מעריב",
    "ts": "2026-11-14T22:51:31+00:00",
-   "cat": "gaza"
-  },
-  {
-   "title": "דיווחים בעזה: מפקד חטיבת רפיח בחמאס חוסל בתקיפת צה\"ל",
-   "link": "https://www.maariv.co.il/breaking-news/article-1388395",
-   "source": "מעריב מבזקים",
-   "ts": "2026-11-14T22:29:18+00:00",
    "cat": "gaza"
   }
  ]
