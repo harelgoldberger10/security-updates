@@ -1,11 +1,25 @@
 {
- "updated": "2026-11-25T19:04:19.706701+00:00",
+ "updated": "2026-11-25T20:02:29.079873+00:00",
  "items": [
+  {
+   "title": "קושנר דחק בנתניהו: \"תיישמו את חלקכם בתוכנית 20 הנקודות, סייעו לעזה בחורף\"",
+   "link": "https://www.ynet.co.il/news/article/hkz51h4jme",
+   "source": "ynet",
+   "ts": "2026-11-25T19:06:23+00:00",
+   "cat": "gaza"
+  },
   {
    "title": "אחרי שני סבבי לחימה מול איראן: הבשורה שמגיעה לחיל האוויר",
    "link": "https://www.maariv.co.il/news/military/article-1392307",
    "source": "מעריב",
    "ts": "2026-11-25T19:01:11+00:00",
+   "cat": "iran"
+  },
+  {
+   "title": "מכוסה באבק אחרי התקיפה הישראלית: נשיא איראן מגלה מה אמר לעלי חמינאי",
+   "link": "https://www.maariv.co.il/news/world/article-1392300",
+   "source": "מעריב",
+   "ts": "2026-11-25T18:51:14+00:00",
    "cat": "iran"
   },
   {
@@ -2785,20 +2799,6 @@
    "link": "https://www.maariv.co.il/breaking-news/article-1388395",
    "source": "מעריב מבזקים",
    "ts": "2026-11-14T22:29:18+00:00",
-   "cat": "gaza"
-  },
-  {
-   "title": "דיווחים: מח\"ט רפיח חוסל ברצועת עזה",
-   "link": "https://www.ynet.co.il/news/article/sytq2liczx",
-   "source": "ynet",
-   "ts": "2026-11-14T22:27:26+00:00",
-   "cat": "gaza"
-  },
-  {
-   "title": "צה\"ל ושב\"כ: מחבל חמאס בכיר הותקף ברצועת עזה",
-   "link": "https://www.maariv.co.il/breaking-news/article-1388394",
-   "source": "מעריב מבזקים",
-   "ts": "2026-11-14T22:18:07+00:00",
    "cat": "gaza"
   }
  ]
