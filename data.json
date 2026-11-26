@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-26T16:16:12.316775+00:00",
+ "updated": "2026-11-26T17:27:27.489325+00:00",
  "items": [
+  {
+   "title": "דגלי אש\"ף וחומרי לימוד אסורים: המשטרה פשטה על בית ספר במזרח ירושלים",
+   "link": "https://www.maariv.co.il/news/law/article-1392638",
+   "source": "מעריב",
+   "ts": "2026-11-26T17:22:50+00:00",
+   "cat": "syr"
+  },
+  {
+   "title": "העינויים והחקירות הקיצוניות: הפרטים החדשים שנחשפו על החמאס בעזה",
+   "link": "https://www.maariv.co.il/news/military/article-1392626",
+   "source": "מעריב",
+   "ts": "2026-11-26T16:41:20+00:00",
+   "cat": "gaza"
+  },
   {
    "title": "הרשימה המשותפת מאותתת על רשת ביטחון לאיזנקוט: \"נעשה הכול כדי למנוע את חזרת נתניהו\"",
    "link": "https://www.maariv.co.il/breaking-news/article-1392611",
@@ -2785,20 +2799,6 @@
    "link": "https://www.maariv.co.il/news/opinions/article-1388462",
    "source": "מעריב",
    "ts": "2026-11-15T07:16:38+00:00",
-   "cat": "iran"
-  },
-  {
-   "title": "פנה מיוזמתו לטהרן ו\"רצה לנקום\": ישראלי מהצפון יואשם באיסוף מודיעין עבור איראן",
-   "link": "https://www.ynet.co.il/news/article/rkngf0uazx",
-   "source": "ynet",
-   "ts": "2026-11-15T07:10:10+00:00",
-   "cat": "iran"
-  },
-  {
-   "title": "פרשת ריגול נוספת נחשפת: תושב הצפון נעצר בחשד שביצע משימות עבור איראן",
-   "link": "https://www.maariv.co.il/breaking-news/article-1388461",
-   "source": "מעריב מבזקים",
-   "ts": "2026-11-15T07:00:59+00:00",
    "cat": "iran"
   }
  ]
