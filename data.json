@@ -1,6 +1,27 @@
 {
- "updated": "2026-11-26T21:29:39.280957+00:00",
+ "updated": "2026-11-26T22:33:34.905908+00:00",
  "items": [
+  {
+   "title": "לא רק אוהלים: תיעוד בלעדי - מה באמת בנה חיזבאללה בשטח ישראל לפני 7/10",
+   "link": "https://www.ynet.co.il/news/article/bjpj7w4j7l",
+   "source": "ynet",
+   "ts": "2026-11-26T22:01:00+00:00",
+   "cat": "leb"
+  },
+  {
+   "title": "\"היו חידונים בקוקפיט בדרך מאיראן\": ביקור בבסיס שממנו אולי תצא התקיפה הבאה",
+   "link": "https://www.ynet.co.il/news/article/yokra14970166",
+   "source": "ynet",
+   "ts": "2026-11-26T22:00:00+00:00",
+   "cat": "iran"
+  },
+  {
+   "title": "תוכנית החורבן: הרעיון \"המטורף\" לפגיעה באיראן",
+   "link": "https://www.ynet.co.il/news/article/yokra14971121",
+   "source": "ynet",
+   "ts": "2026-11-26T22:00:00+00:00",
+   "cat": "iran"
+  },
   {
    "title": "תוך שבוע: תקיפה שלישית של צה\"ל בלבנון - הפעם נגד כוח רדואן",
    "link": "https://www.maariv.co.il/news/military/article-1392688",
@@ -2778,27 +2799,6 @@
    "link": "https://www.maariv.co.il/news/israel/article-1388563",
    "source": "מעריב",
    "ts": "2026-11-15T10:13:14+00:00",
-   "cat": "gaza"
-  },
-  {
-   "title": "לצה\"ל עלה הסעיף: תוכנית יום הדין נגד חמאס יוצאת לדרך - \"שיחשבו כמה פעמים\"",
-   "link": "https://www.maariv.co.il/breaking-news/article-1388532",
-   "source": "מעריב מבזקים",
-   "ts": "2026-11-15T09:11:55+00:00",
-   "cat": "gaza"
-  },
-  {
-   "title": "\"שיחשבו כמה פעמים אם לפעול\": צה\"ל החל במבצע \"הרולטה הרוסית\" נגד העורק הראשי של חמאס",
-   "link": "https://www.maariv.co.il/breaking-news/article-1388529",
-   "source": "מעריב מבזקים",
-   "ts": "2026-11-15T09:08:54+00:00",
-   "cat": "gaza"
-  },
-  {
-   "title": "לא רק מודיעין: הגורמים שקובעים מתי יחוסלו מפקדי חמאס",
-   "link": "https://www.maariv.co.il/breaking-news/article-1388525",
-   "source": "מעריב מבזקים",
-   "ts": "2026-11-15T08:58:10+00:00",
    "cat": "gaza"
   }
  ]
