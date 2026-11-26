@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-26T02:15:51.379818+00:00",
+ "updated": "2026-11-26T03:23:52.360682+00:00",
  "items": [
+  {
+   "title": "ניסיון חיסול נוסף בעזה, צה\"ל: \"תקפנו מחבל בכיר בחמאס\"",
+   "link": "https://www.ynet.co.il/news/article/hywhsgs1mg",
+   "source": "ynet",
+   "ts": "2026-11-26T02:30:35+00:00",
+   "cat": "gaza"
+  },
   {
    "title": "דיווחים בעזה: 3 הרוגים בתקיפה בשכונת א-תופאח",
    "link": "https://www.maariv.co.il/breaking-news/article-1392333",
@@ -2792,13 +2799,6 @@
    "link": "https://www.maariv.co.il/breaking-news/article-1388399",
    "source": "מעריב מבזקים",
    "ts": "2026-11-14T22:51:47+00:00",
-   "cat": "gaza"
-  },
-  {
-   "title": "צה\"ל תקף בכיר בחמאס - בעזה מדווחים על חיסול מפקד חטיבת רפיח",
-   "link": "https://www.maariv.co.il/news/military/article-1388397",
-   "source": "מעריב",
-   "ts": "2026-11-14T22:51:31+00:00",
    "cat": "gaza"
   }
  ]
