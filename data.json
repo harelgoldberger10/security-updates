@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-26T14:03:54.551313+00:00",
+ "updated": "2026-11-26T15:10:27.662663+00:00",
  "items": [
+  {
+   "title": "שני איטלקים נהרגו במתקפת כטב\"מים איראנית בכוויית: \"היעד היה אתר חיוני\"",
+   "link": "https://www.ynet.co.il/news/article/bjtx9hskml",
+   "source": "ynet",
+   "ts": "2026-11-26T14:10:44+00:00",
+   "cat": "iran"
+  },
   {
    "title": "מתקפת כטב\"מים מאיראן נגד כווית: דווח על ארבעה פצועים",
    "link": "https://www.maariv.co.il/breaking-news/article-1392552",
@@ -2792,13 +2799,6 @@
    "link": "https://www.maariv.co.il/breaking-news/article-1388438",
    "source": "מעריב מבזקים",
    "ts": "2026-11-15T06:09:18+00:00",
-   "cat": "iran"
-  },
-  {
-   "title": "לא רק מצור ורעב ברחובות: \"4000 משאיות תקועות בגבול איראן-טורקיה\"",
-   "link": "https://www.maariv.co.il/breaking-news/article-1388437",
-   "source": "מעריב מבזקים",
-   "ts": "2026-11-15T06:04:31+00:00",
    "cat": "iran"
   }
  ]
