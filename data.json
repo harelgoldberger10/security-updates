@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-27T11:31:14.831565+00:00",
+ "updated": "2026-11-27T12:39:49.654582+00:00",
  "items": [
+  {
+   "title": "נמנע פיגוע מיידי: כל הפרטים על פעילות החירום של צה\"ל והשב\"כ",
+   "link": "https://www.maariv.co.il/news/military/article-1392847",
+   "source": "מעריב",
+   "ts": "2026-11-27T12:02:09+00:00",
+   "cat": "intel"
+  },
+  {
+   "title": "צה\"ל מאשר תקיפת יעד בכיר בעזה: הפלסטינים מדווחים כי מדובר בבנו של מנהיג חמאס",
+   "link": "https://www.maariv.co.il/news/military/article-1392846",
+   "source": "מעריב",
+   "ts": "2026-11-27T11:45:51+00:00",
+   "cat": "gaza"
+  },
   {
    "title": "דוברת צה״ל בערבית חשפה: חיזבאללה מנצל סירות דיג אזרחיות לאיסוף מודיעין על כוחות צה״ל",
    "link": "https://www.maariv.co.il/breaking-news/article-1392839",
@@ -2785,20 +2799,6 @@
    "link": "https://www.ynet.co.il/news/article/rkpspipazl",
    "source": "ynet",
    "ts": "2026-11-15T18:19:18+00:00",
-   "cat": "intel"
-  },
-  {
-   "title": "לראשונה: עשרות שגרירי האו\"ם נכנסו למנהרת חמאס בעזה",
-   "link": "https://www.walla.co.il/news/world/383961527",
-   "source": "וואלה",
-   "ts": "2026-11-15T17:51:00+00:00",
-   "cat": "gaza"
-  },
-  {
-   "title": "בכיר המוסד לשעבר מסביר: \"באותו רגע ישראל איבדה את החוט לרון\" | האזינו",
-   "link": "https://www.maariv.co.il/news/military/article-1388753",
-   "source": "מעריב",
-   "ts": "2026-11-15T17:40:22+00:00",
    "cat": "intel"
   }
  ]
